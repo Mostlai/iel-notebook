@@ -2,7 +2,7 @@ name: Generate Algolia serach indicies in JSON & push to Algolia
 on:
     push:
         branches:
-            - master
+            - main
 jobs:
     algolia:
         runs-on: ubuntu-latest

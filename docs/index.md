@@ -9,7 +9,7 @@ hero:
     text: Store & Study
     tagline: 📃 A IEL Notebook created by Pldada-Mostlai for study and management.
     image:
-        src: '/assets/logo/logo.jpg'
+        src: 'https://s1.ax1x.com/2023/06/04/pC9viWV.png'
         alt: Home logo
     actions:
         - theme: brand
