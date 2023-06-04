@@ -1,36 +1,26 @@
-name: Deploy
-
+name: Build and Deploy Vitepress Doc Pages to GitHub Pages
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
+    push:
+        branches:
+            - main
 jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - uses: pnpm/action-setup@v2
-        with:
-          version: 7
-      - name: Install dependencies and build/compile the site # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
-        run: |
-            pnpm install --no-frozen-lockfile
-            pnpm prepare
-            pnpm lint
-            pnpm docs:build
-      - name: Deploy to GitHub pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-            folder: dist # The folder the action should deploy.
+    build-and-deploy:
+        concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
+        runs-on: ubuntu-latest
+        steps:
+            - name: Perform check out
+              uses: actions/checkout@v3
+            - name: Setup PNPM
+              uses: pnpm/action-setup@v2
+              with:
+                  version: 8
+            - name: Install dependencies and build/compile the site # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+              run: |
+                  pnpm install --no-frozen-lockfile
+                  pnpm prepare
+                  pnpm lint
+                  pnpm docs:build
+            - name: Deploy to GitHub pages
+              uses: JamesIves/github-pages-deploy-action@v4
+              with:
+                  folder: dist # The folder the action should deploy.
