@@ -17,7 +17,6 @@ export default defineConfig({
     //markdown: markdown, // markdown config
     lastUpdated: true, // whether enabling lastupdated or not
     head, // documentation head tag options
-    base:'./',
     themeConfig, // default exported theme config
     cleanUrls: true, // clean urls configs to remove standard genreated page file type extensions
     outDir: '../dist', // specify staic pages build output dir
