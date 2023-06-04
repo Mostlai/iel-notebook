@@ -39,7 +39,7 @@ export default defineConfig({
             label: 'Japanese',
             title: 'Vue Test Utils',
             lang: 'jp-JP',
-            description: 'La documentation officielle de Vue Test Utils',
+            description: 'La documentation officielle de Vue TesT',
         },
     },
     ignoreDeadLinks: true,
