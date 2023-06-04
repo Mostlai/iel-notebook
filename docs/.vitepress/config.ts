@@ -17,6 +17,7 @@ export default defineConfig({
     //markdown: markdown, // markdown config
     lastUpdated: true, // whether enabling lastupdated or not
     head, // documentation head tag options
+    base:'./',
     themeConfig, // default exported theme config
     cleanUrls: true, // clean urls configs to remove standard genreated page file type extensions
     outDir: '../dist', // specify staic pages build output dir
@@ -41,14 +42,14 @@ export default defineConfig({
             description: 'La documentation officielle de Vue Test Utils',
         },
     },
-    // ignoreDeadLinks: true,
-    // transformHtml: (_, id, { pageData }) => {
-    //     if (!/[\\/]404\.html$/.test(id))
-    //         links.push({
-    //             url: pageData.relativePath.replace(/((^|\/)index)?\.md$/, '$2'),
-    //             lastmod: pageData.lastUpdated,
-    //         })
-    // },
+    ignoreDeadLinks: true,
+    transformHtml: (_, id, { pageData }) => {
+         if (!/[\\/]404\.html$/.test(id))
+             links.push({
+                 url: pageData.relativePath.replace(/((^|\/)index)?\.md$/, '$2'),
+                 lastmod: pageData.lastUpdated,
+             })
+     },
     // buildEnd: async ({ outDir }) => {
     //     const sitemap = new SitemapStream({ hostname: 'https://mostlai.github.io/' })
     //     const writeStream = createWriteStream(resolve(outDir, 'sitemap.xml'))
