@@ -24,17 +24,13 @@ jobs:
       - uses: pnpm/action-setup@v2
         with:
           version: 7
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 16
-          cache: pnpm
-      - run: pnpm install --no-frozen-lockfile
-      - name: Build
-        run: pnpm run docs:build
-      - uses: actions/configure-pages@v2
-      - uses: actions/upload-pages-artifact@v1
-        with:
-          path: docs/.vitepress/dist
-      - name: Deploy
-        id: deployment
-        uses: actions/deploy-pages@v1
+      - name: Install dependencies and build/compile the site # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+              run: |
+                  pnpm install --no-frozen-lockfile
+                  pnpm prepare
+                  pnpm lint
+                  pnpm docs:build
+            - name: Deploy to GitHub pages
+              uses: JamesIves/github-pages-deploy-action@v4
+              with:
+                  folder: dist # The folder the action should deploy.
