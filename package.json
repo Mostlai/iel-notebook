@@ -1,0 +1,28 @@
+{
+  "name": "iel-notebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mostlai/iel-notebook.git"
+  },
+  "author": "Pldada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mostlai/iel-notebook/issues"
+  },
+  "homepage": "https://github.com/Mostlai/iel-notebook#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-beta.1"
+  },
+  "dependencies": {
+    "sass": "^1.62.1",
+    "unplugin-vue-components": "^0.25.0"
+  }
+}
