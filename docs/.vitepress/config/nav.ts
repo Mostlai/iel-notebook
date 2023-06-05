@@ -7,7 +7,9 @@ export const nav: DefaultTheme.Config['nav'] = [
     },
     {
         text: 'Development',
-        link: '/development/',
+        items:[
+        	{text: 'Commit',link: '/development/conventional_commit'},
+        ]
     },
     {
         text: 'Speak',

@@ -1,14 +1,6 @@
 import { DefaultTheme } from 'vitepress/theme'
 
 export const sidebar: DefaultTheme.Config['sidebar'] = {
-    // development related documents
-    '/development/': [
-        {
-            text: 'Wiki Database',
-            collapsed: false,
-            items: [{ text: 'File Naming Convention', link: '/development/file-naming-convention' }],
-        },
-    ],
 
     // 写作
     '/write/': [

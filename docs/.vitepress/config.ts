@@ -1,5 +1,5 @@
 import { defineConfig} from 'vitepress'
-// import { markdown } from './config/markdown'
+import { markdown } from './config/markdown'
 import { metaData } from './config/constants'
 import { head } from './config/head'
 import { themeConfig } from './config/theme'
@@ -14,7 +14,7 @@ export default defineConfig({
     lang: metaData.lang, // i18n default english translation
     title: metaData.title, // title from metadata config
     description: metaData.description, // description from metadata config
-    //markdown: markdown, // markdown config
+    markdown: markdown, // markdown config
     lastUpdated: true, // whether enabling lastupdated or not
     head, // documentation head tag options
     base: '/iel-notebook/',
@@ -35,12 +35,6 @@ export default defineConfig({
             label: 'English',
             lang: 'en-US',
         },
-        '/jp/': {
-            label: 'Japanese',
-            title: 'Vue Test Utils',
-            lang: 'jp-JP',
-            description: 'La documentation officielle de Vue TesT',
-        },
     },
     ignoreDeadLinks: true,
     transformHtml: (_, id, { pageData }) => {
@@ -51,7 +45,7 @@ export default defineConfig({
              })
      },
     // buildEnd: async ({ outDir }) => {
-    //     const sitemap = new SitemapStream({ hostname: 'https://mostlai.github.io/' })
+    //     const sitemap = new SitemapStream({ hostname: 'https://mostlai.github.io/iel-notebook' })
     //     const writeStream = createWriteStream(resolve(outDir, 'sitemap.xml'))
     //     sitemap.pipe(writeStream)
     //     links.forEach(link => sitemap.write(link))
