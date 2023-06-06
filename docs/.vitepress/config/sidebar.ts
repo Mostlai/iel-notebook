@@ -9,8 +9,8 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
             collapsed: false,
             items: [
                 {
-                    text: 'Detail',
-                    link: '/write/wp1/',
+                    text: 'WP1 Detail',
+                    link: '/write/wp1/witre_p1',
                 },
             ],
         },
@@ -19,8 +19,18 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
             collapsed: false,
             items: [
                 {
-                    text: 'Detail',
-                    link: '/write/wp2/',
+                    text: 'WP2 Detail',
+                    link: '/write/wp2/witre_p2',
+                },
+            ],
+        },
+        {
+            text: 'Vocabulary',
+            collapsed: false,
+            items: [
+                {
+                    text: 'Vocabulary Detail',
+                    link: '/write/vocabulary',
                 },
             ],
         },
@@ -29,8 +39,8 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
             collapsed: false,
             items: [
                 {
-                    text: 'Detail',
-                    link: '/write/sysu/',
+                    text: 'SS Detail',
+                    link: '/write/sysu',
                 },
             ],
         },
