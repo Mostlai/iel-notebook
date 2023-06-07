@@ -81,7 +81,7 @@ export default {
 
     enhanceApp(ctx) {
         // custom component tag/slot
-        // ctx.app.component('CardLink', CardLink)
+        ctx.app.component('CardLink', CardLink)
         // ctx.app.component('DPlayer', vue3videoPlay)
 
         // external plugin for vitepress hack performance

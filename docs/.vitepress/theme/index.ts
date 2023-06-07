@@ -14,6 +14,8 @@ import './styles/index.scss'
 // custom components and vue template layouts
 import CustomLayout from './CustomLayout.vue'
 // @ts-ignore
+import CardLink from './components/CardLink.vue'
+// import Shanbei from './components/shanbei.vue'
 import Copyright from './components/Copyright.vue'
 
 // import CodeTitle from './components/CodeTitle.vue'
@@ -74,7 +76,7 @@ export default {
 
     enhanceApp(ctx) {
         // custom component tag/slot
-        // ctx.app.component('CardLink', CardLink)
+        ctx.app.component('CardLink', CardLink)
         // ctx.app.component('DPlayer', vue3videoPlay)
 
         // external plugin for vitepress hack performance

@@ -84,3 +84,5 @@ J5T1 Overview
 | 代词 this 连接               | The figure for this country …                                |
 | 突出趋势的改变或者高低的变化 | a different / a similar / the same trend                     |
 | 连词                         | 表示并列：and; 表示转折和对比：while, whereas                |
+
+<CardLink></CardLink>
