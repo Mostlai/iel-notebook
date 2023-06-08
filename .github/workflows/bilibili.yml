@@ -36,13 +36,13 @@ jobs:
       run: |
         python3 ./pyapp/getVideo.py
     - name: Commit changed data.json file and push changes to repository
-        run: |
-          git diff
-          git config --global user.email "2096358571@qq.com"
-          git config --global user.name "mostlai"
-          git add -A
-          git commit -a -m 'chore(update): update data.json from Bilibili' || exit 0
-          git push -f origin main
+      run: |
+        git diff
+        git config --global user.email "2096358571@qq.com"
+        git config --global user.name "mostlai"
+        git add -A
+        git commit -a -m 'chore(update): update data.json from Bilibili' || exit 0
+        git push -f origin main
     - name: Push changes to remote repository
       uses: ad-m/github-push-action@master
       with:
