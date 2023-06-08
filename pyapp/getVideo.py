@@ -1,4 +1,4 @@
-import datetime
+import datetime as datetime
 import json
 import os
 import re
