@@ -37,7 +37,8 @@ def get_pubdate(page_size: str, keyword: str, list_name: str) -> list:
 
 
 def write_json(json_data: list) -> None:
-    file_url = '../docs/.vitepress/theme/components/public/data.json'
+    # file_url = '../docs/.vitepress/theme/components/public/data.json'
+    file_url = '/home/runner/work/iel-notebook/iel-notebook/./docs/.vitepress/theme/components/public/data.json'
     with open(file_url, "w", encoding="utf-8") as f:
         content = json.dumps(json_data, indent=4, ensure_ascii=False)
         f.write(content)
