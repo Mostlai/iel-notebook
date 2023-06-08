@@ -67,4 +67,4 @@ if __name__ == '__main__':
     data2 = get_pubdate('10', '俊达萌', '俊达萌')
     w_data = data1 + data2
     write_json(w_data)
-    update_readme()
+    # update_readme()
