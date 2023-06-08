@@ -9,6 +9,7 @@ export const nav: DefaultTheme.Config['nav'] = [
         text: 'Development',
         items:[
         	{text: 'Commit',link: '/development/conventional_commit'},
+            {text: 'Bilibili',link: '/development/bilibili_list'},
         ]
     },
     {
