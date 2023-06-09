@@ -1,8 +1,9 @@
 name: Generate Algolia serach indicies in JSON & push to Algolia
 on:
-    push:
-        branches:
-            - main
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: '20 * * * *'
 jobs:
     algolia:
         runs-on: ubuntu-latest

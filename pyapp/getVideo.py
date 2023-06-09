@@ -1,4 +1,4 @@
-import datetime as datetime
+from datetime import datetime
 import json
 import os
 import re
@@ -51,7 +51,8 @@ def write_json(json_data: list) -> None:
 
 def update_readme() -> None:
     file_url = '/home/runner/work/iel-notebook/iel-notebook/./README.md'
-    insert_info = "---start---\n\n##" + "数据更新时间:" + datetime.fromtimestamp(int(time.time()), pytz.timezone(
+    # file_url = '../README.md'
+    insert_info = "---start---\n\n" + "数据更新时间:" + datetime.fromtimestamp(int(time.time()), pytz.timezone(
         'Asia/Shanghai')).strftime(
         '%Y-%m-%d %H:%M:%S') + "\n\n---end---"
     # 获取README.md内容
@@ -67,4 +68,4 @@ if __name__ == '__main__':
     data2 = get_pubdate('10', '俊达萌', '俊达萌')
     w_data = data1 + data2
     write_json(w_data)
-    # update_readme()
+    update_readme()
