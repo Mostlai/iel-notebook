@@ -20,6 +20,8 @@ def process_pic(txt: str) -> str:
     base_url = 'https:'
     # final_url = base_url + txt.split('archive')[1]
     final_url = base_url + txt
+    if 'https://i0' in final_url:
+        final_url = final_url.replace('https://i0', 'https://i1')
     return final_url
 
 
