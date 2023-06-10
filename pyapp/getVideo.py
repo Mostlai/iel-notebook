@@ -15,9 +15,11 @@ def delete_element(txt: str) -> str:
 
 
 def process_pic(txt: str) -> str:
-    print(txt)
-    base_url = 'https://i1.hdslb.com/bfs/archive'
-    final_url = base_url + txt.split('archive')[1]
+    # print(txt)
+    # base_url = 'https://i1.hdslb.com/bfs/archive'
+    base_URL = 'https://'
+    # final_url = base_url + txt.split('archive')[1]
+    final_url = base_url + txt
     return final_url
 
 
