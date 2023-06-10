@@ -22,7 +22,7 @@ def process_pic(txt: str) -> str:
 
 def get_pubdate(page_size: str, keyword: str, list_name: str) -> list:
     final_data = list()
-    url = config.search_by_keyword(page_size, keyword)
+    url = config.search_by_tag(page_size, keyword)
     json_data = requests.get(url, headers=config.header).json()
     result = json_data["data"]["result"]
     for i in result:
