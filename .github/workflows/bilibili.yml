@@ -3,6 +3,7 @@ name: Bilibili
 on:
   schedule:
     - cron: '20 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
