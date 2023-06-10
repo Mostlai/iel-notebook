@@ -22,7 +22,7 @@ def process_pic(txt: str) -> str:
 
 def get_pubdate(page_size: str, keyword: str, list_name: str) -> list:
     final_data = list()
-    url = config.search_by_tag(page_size, keyword)
+    url = config.search_by_keyword(page_size, keyword)
     json_data = requests.get(url, headers=config.header).json()
     result = json_data["data"]["result"]
     for i in result:
@@ -64,7 +64,7 @@ def update_readme() -> None:
 
 
 if __name__ == '__main__':
-    data1 = get_pubdate('10', 'Cookie☆ NYN', 'cookie')
+    data1 = get_pubdate('10', 'NYN', 'cookie')
     data2 = get_pubdate('10', '俊达萌', '俊达萌')
     w_data = data1 + data2
     write_json(w_data)
