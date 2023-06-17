@@ -6,7 +6,7 @@
                 "url": "http://www.bilibili.com/video/av614963267",
                 "pic": "https://i1.hdslb.com/bfs/archive/d7f1b1056e346607f63fb1527ab127c566b92b1d.jpg",
                 "author": "菜猫official",
-                "play": 0,
+                "play": 2,
                 "favorites": 0,
                 "duration": "0:10",
                 "pubdate": 1687014415
@@ -16,8 +16,8 @@
                 "url": "http://www.bilibili.com/video/av572392834",
                 "pic": "https://i1.hdslb.com/bfs/archive/213a4e30deb7dcb5da25fb328a903b5a98db38a8.jpg",
                 "author": "六号射击",
-                "play": 69,
-                "favorites": 11,
+                "play": 77,
+                "favorites": 14,
                 "duration": "0:58",
                 "pubdate": 1687006801
             },
@@ -26,8 +26,8 @@
                 "url": "http://www.bilibili.com/video/av529973242",
                 "pic": "https://i1.hdslb.com/bfs/archive/67afce42ad36e851b94ef7d43bd04d9723c87370.jpg",
                 "author": "猎魔人BOXERRUDY鲁迪酱",
-                "play": 402,
-                "favorites": 13,
+                "play": 641,
+                "favorites": 21,
                 "duration": "1:29",
                 "pubdate": 1686992800
             },
@@ -46,7 +46,7 @@
                 "url": "http://www.bilibili.com/video/av827208944",
                 "pic": "https://i2.hdslb.com/bfs/archive/6ea4727dcd5c3b79fb8f2f950f518f804e374f69.jpg",
                 "author": "CRN-CRN",
-                "play": 674,
+                "play": 676,
                 "favorites": 61,
                 "duration": "2:46",
                 "pubdate": 1686581734
@@ -56,7 +56,7 @@
                 "url": "http://www.bilibili.com/video/av229716722",
                 "pic": "https://i2.hdslb.com/bfs/archive/0581f4074407db2ea28b8826200f1b9a1f6f48ea.jpg",
                 "author": "黑色中队",
-                "play": 4385,
+                "play": 4411,
                 "favorites": 91,
                 "duration": "1:37",
                 "pubdate": 1686465976
@@ -76,7 +76,7 @@
                 "url": "http://www.bilibili.com/video/av997094488",
                 "pic": "https://i1.hdslb.com/bfs/archive/18813b2a343177f5c623d588f5699cb509e6af31.jpg",
                 "author": "资本雅美",
-                "play": 1105,
+                "play": 1106,
                 "favorites": 84,
                 "duration": "1:6",
                 "pubdate": 1686207996
@@ -86,7 +86,7 @@
                 "url": "http://www.bilibili.com/video/av529589962",
                 "pic": "https://i1.hdslb.com/bfs/archive/c6078ff2f3698f0e7b96975ce44a1d4603bff12d.jpg",
                 "author": "看好你家的遥控车",
-                "play": 1941,
+                "play": 1947,
                 "favorites": 39,
                 "duration": "1:33",
                 "pubdate": 1686199526
@@ -96,7 +96,7 @@
                 "url": "http://www.bilibili.com/video/av784590384",
                 "pic": "https://i1.hdslb.com/bfs/archive/e8ce8c7f251cc8f4689b1efb4fe408c57508bad1.jpg",
                 "author": "柠檬的结构",
-                "play": 1710,
+                "play": 1715,
                 "favorites": 192,
                 "duration": "0:30",
                 "pubdate": 1686187933
@@ -106,12 +106,22 @@
     {
         "俊达萌": [
             {
+                "title": "ウキウキ俊达萌（仮）【VOICEROID剧场】【VOICEVOX剧场】【语音合成软件剧场】",
+                "url": "http://www.bilibili.com/video/av399916745",
+                "pic": "https://i1.hdslb.com/bfs/archive/be23cd3cc05e363fbdcb1d8a0e2ce32051c1260e.jpg",
+                "author": "拐哥",
+                "play": 1,
+                "favorites": 0,
+                "duration": "5:45",
+                "pubdate": 1687019299
+            },
+            {
                 "title": "【ずんつむ百合】『きらきらすいーとはぴねすたいむ！』【オリジナル曲】",
                 "url": "http://www.bilibili.com/video/av399951765",
                 "pic": "https://i1.hdslb.com/bfs/archive/e7d4ea5da5d81857db2b922265ecf4cb20a838fd.jpg",
                 "author": "拐哥",
-                "play": 39,
-                "favorites": 2,
+                "play": 71,
+                "favorites": 3,
                 "duration": "3:43",
                 "pubdate": 1687012848
             },
@@ -120,7 +130,7 @@
                 "url": "http://www.bilibili.com/video/av272434395",
                 "pic": "https://i2.hdslb.com/bfs/archive/6f21e2ad29135b51de935c26e43d41f91b08cb6f.jpg",
                 "author": "晴天罐头",
-                "play": 22,
+                "play": 34,
                 "favorites": 3,
                 "duration": "3:27",
                 "pubdate": 1687008949
@@ -130,8 +140,8 @@
                 "url": "http://www.bilibili.com/video/av869914874",
                 "pic": "https://i1.hdslb.com/bfs/archive/50781bf5971b85f589ee6a0631b34447e0fbf392.jpg",
                 "author": "拐哥",
-                "play": 115,
-                "favorites": 9,
+                "play": 124,
+                "favorites": 10,
                 "duration": "3:7",
                 "pubdate": 1687004994
             },
@@ -140,8 +150,8 @@
                 "url": "http://www.bilibili.com/video/av399909867",
                 "pic": "https://i2.hdslb.com/bfs/archive/bc91d0dce4749aacf554550e85445ff2b68bff5f.jpg",
                 "author": "beautifulremi",
-                "play": 1268,
-                "favorites": 63,
+                "play": 1546,
+                "favorites": 76,
                 "duration": "0:41",
                 "pubdate": 1687000528
             },
@@ -150,7 +160,7 @@
                 "url": "http://www.bilibili.com/video/av444951900",
                 "pic": "https://i2.hdslb.com/bfs/archive/66faaf95162e474b685f903072b26c7dfebb10b6.jpg",
                 "author": "カリン_",
-                "play": 48,
+                "play": 49,
                 "favorites": 2,
                 "duration": "3:21",
                 "pubdate": 1686999588
@@ -160,8 +170,8 @@
                 "url": "http://www.bilibili.com/video/av487396276",
                 "pic": "https://i2.hdslb.com/bfs/archive/f8f2748430bba232eb96edbad890ecff17cacb46.jpg",
                 "author": "_怨念_",
-                "play": 7615,
-                "favorites": 98,
+                "play": 8528,
+                "favorites": 106,
                 "duration": "3:5",
                 "pubdate": 1686992835
             },
@@ -170,8 +180,8 @@
                 "url": "http://www.bilibili.com/video/av869932660",
                 "pic": "https://i2.hdslb.com/bfs/archive/6b453c8a733f9dde1139c29356595e6c36687b69.jpg",
                 "author": "鸢の殇",
-                "play": 87,
-                "favorites": 10,
+                "play": 93,
+                "favorites": 11,
                 "duration": "2:17",
                 "pubdate": 1686971098
             },
@@ -180,8 +190,8 @@
                 "url": "http://www.bilibili.com/video/av699763538",
                 "pic": "https://i2.hdslb.com/bfs/archive/b9f2f9414b22baadb66d2ed52c37303bff82e4ae.jpg",
                 "author": "月夜喵",
-                "play": 7907,
-                "favorites": 97,
+                "play": 7994,
+                "favorites": 98,
                 "duration": "1:19",
                 "pubdate": 1686893137
             },
@@ -190,20 +200,10 @@
                 "url": "http://www.bilibili.com/video/av529818646",
                 "pic": "https://i1.hdslb.com/bfs/archive/7f7e1c4856bb84062e5402cf392906aacbe7e37c.jpg",
                 "author": "音街ウナ",
-                "play": 892,
-                "favorites": 86,
+                "play": 919,
+                "favorites": 87,
                 "duration": "3:8",
                 "pubdate": 1686885111
-            },
-            {
-                "title": "【VOICEROID剧场】切蒲英与梦？",
-                "url": "http://www.bilibili.com/video/av827278182",
-                "pic": "https://i1.hdslb.com/bfs/archive/8c14e13d9dd6d0daa2e554fa0cf8106e6afe830e.jpg",
-                "author": "拐哥",
-                "play": 138,
-                "favorites": 3,
-                "duration": "2:2",
-                "pubdate": 1686847700
             }
         ]
     }
