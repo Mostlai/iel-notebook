@@ -6,8 +6,8 @@
                 "url": "http://www.bilibili.com/video/av829054416",
                 "pic": "https://i1.hdslb.com/bfs/archive/7d0393352711cb492fa34fa35d948d621fc14735.jpg",
                 "author": "Jenkins_Gundolph",
-                "play": 3,
-                "favorites": 0,
+                "play": 48,
+                "favorites": 2,
                 "duration": "57:10",
                 "pubdate": 1690615088
             },
@@ -16,27 +16,17 @@
                 "url": "http://www.bilibili.com/video/av446560066",
                 "pic": "https://i1.hdslb.com/bfs/archive/cd109632a85781c3391b204b8d43af5291370b9c.jpg",
                 "author": "Ending-NYN",
-                "play": 44,
+                "play": 47,
                 "favorites": 2,
                 "duration": "0:15",
                 "pubdate": 1690541562
-            },
-            {
-                "title": "【声真似】哟，五年不见了",
-                "url": "http://www.bilibili.com/video/av446585458",
-                "pic": "https://i1.hdslb.com/bfs/archive/97bd799e3b5dda502b92f46f270868ae647d19fd.jpg",
-                "author": "一般通过のnyn",
-                "play": 218,
-                "favorites": 3,
-                "duration": "0:9",
-                "pubdate": 1690540878
             },
             {
                 "title": "2023-7-28 dr:成绩上传失败",
                 "url": "http://www.bilibili.com/video/av489116279",
                 "pic": "https://i1.hdslb.com/bfs/archive/2509bcbc9dfd386bd27a8b907e2f7d9b224f3092.jpg",
                 "author": "Msc丶NYN",
-                "play": 63,
+                "play": 64,
                 "favorites": 0,
                 "duration": "15:19",
                 "pubdate": 1690540070
@@ -46,7 +36,7 @@
                 "url": "http://www.bilibili.com/video/av786531873",
                 "pic": "https://i1.hdslb.com/bfs/archive/a0e4e41f5d165400ba681d3116b48b5eab6aef34.png",
                 "author": "阁下川云丶",
-                "play": 107,
+                "play": 111,
                 "favorites": 5,
                 "duration": "0:26",
                 "pubdate": 1690524395
@@ -56,8 +46,8 @@
                 "url": "http://www.bilibili.com/video/av361501584",
                 "pic": "https://i1.hdslb.com/bfs/archive/313f3655eccb979f91d2864f7aca981dd83afd2d.jpg",
                 "author": "EekMeBaby",
-                "play": 1398,
-                "favorites": 72,
+                "play": 1414,
+                "favorites": 74,
                 "duration": "0:30",
                 "pubdate": 1690517629
             },
@@ -66,7 +56,7 @@
                 "url": "http://www.bilibili.com/video/av786414103",
                 "pic": "https://i1.hdslb.com/bfs/archive/01fddd1897d5d40ab489d6b23fe3b8728a543dd6.jpg",
                 "author": "NYN姐贵",
-                "play": 453,
+                "play": 457,
                 "favorites": 34,
                 "duration": "470:4",
                 "pubdate": 1690448966
@@ -76,7 +66,7 @@
                 "url": "http://www.bilibili.com/video/av231377716",
                 "pic": "https://i2.hdslb.com/bfs/archive/898352c1613d6fc22793326ec0f7a41aeebf55c0.jpg",
                 "author": "戸村源太郎",
-                "play": 245,
+                "play": 246,
                 "favorites": 19,
                 "duration": "2:14",
                 "pubdate": 1690394892
@@ -86,7 +76,7 @@
                 "url": "http://www.bilibili.com/video/av361428238",
                 "pic": "https://i2.hdslb.com/bfs/archive/a010a8f03720ea8538d574a6f2c1d67677daad75.jpg",
                 "author": "1em0n_2NyN",
-                "play": 2,
+                "play": 1,
                 "favorites": 1,
                 "duration": "0:4",
                 "pubdate": 1690391325
@@ -100,6 +90,16 @@
                 "favorites": 2,
                 "duration": "0:49",
                 "pubdate": 1690372848
+            },
+            {
+                "title": "2023-7-26 dr:平平无奇",
+                "url": "http://www.bilibili.com/video/av743976523",
+                "pic": "https://i1.hdslb.com/bfs/archive/bbf56c90cb758ea1c9b2a57cba7c16f0bb244477.jpg",
+                "author": "Msc丶NYN",
+                "play": 189,
+                "favorites": 1,
+                "duration": "10:17",
+                "pubdate": 1690368011
             }
         ]
     },
@@ -110,7 +110,7 @@
                 "url": "http://www.bilibili.com/video/av359004052",
                 "pic": "https://i1.hdslb.com/bfs/archive/9a7cd917a16b23807f6970bb808d3ca7dc6f4d30.jpg",
                 "author": "Scarlet_Lua绯色月",
-                "play": 28,
+                "play": 44,
                 "favorites": 5,
                 "duration": "1:39",
                 "pubdate": 1690609334
@@ -120,8 +120,8 @@
                 "url": "http://www.bilibili.com/video/av404074663",
                 "pic": "https://i2.hdslb.com/bfs/archive/74b4037c5e6f3c3448cdc9f3164b4c544f5027f1.jpg",
                 "author": "_怨念_",
-                "play": 2677,
-                "favorites": 46,
+                "play": 2745,
+                "favorites": 45,
                 "duration": "1:34",
                 "pubdate": 1690553045
             },
@@ -150,7 +150,7 @@
                 "url": "http://www.bilibili.com/video/av274020505",
                 "pic": "https://i2.hdslb.com/bfs/archive/075992bdcaa1284c54c4f77c20e49488f5ea58d0.jpg",
                 "author": "東北ずん子",
-                "play": 212,
+                "play": 232,
                 "favorites": 4,
                 "duration": "2:53",
                 "pubdate": 1690545468
@@ -160,8 +160,8 @@
                 "url": "http://www.bilibili.com/video/av231580268",
                 "pic": "https://i1.hdslb.com/bfs/archive/b3ae81498ea19f2c14787aeacdb7495b102e0031.jpg",
                 "author": "沃淦的养鹅厂",
-                "play": 1298,
-                "favorites": 100,
+                "play": 1339,
+                "favorites": 103,
                 "duration": "3:20",
                 "pubdate": 1690527536
             },
@@ -170,8 +170,8 @@
                 "url": "http://www.bilibili.com/video/av999095581",
                 "pic": "https://i1.hdslb.com/bfs/archive/0b8e8e2767fe90b8cb109c64a35dc136c8c3dccf.jpg",
                 "author": "東北ずん子",
-                "play": 830,
-                "favorites": 21,
+                "play": 851,
+                "favorites": 22,
                 "duration": "2:36",
                 "pubdate": 1690520766
             },
@@ -180,8 +180,8 @@
                 "url": "http://www.bilibili.com/video/av489097719",
                 "pic": "https://i1.hdslb.com/bfs/archive/33ffca32fafaa7dfb3e990a53a2c61e048761ee4.jpg",
                 "author": "東北ずん子",
-                "play": 1586,
-                "favorites": 30,
+                "play": 1675,
+                "favorites": 33,
                 "duration": "1:49",
                 "pubdate": 1690518232
             },
@@ -190,7 +190,7 @@
                 "url": "http://www.bilibili.com/video/av489051493",
                 "pic": "https://i1.hdslb.com/bfs/archive/e63a91951ee32c6b7a78912a2631e99a8399197f.jpg",
                 "author": "東北ずん子",
-                "play": 269,
+                "play": 272,
                 "favorites": 20,
                 "duration": "2:17",
                 "pubdate": 1690516859
@@ -200,7 +200,7 @@
                 "url": "http://www.bilibili.com/video/av999004571",
                 "pic": "https://i2.hdslb.com/bfs/archive/59c2f29ee7885b0d6a512ba4f821816d7fa4b23a.jpg",
                 "author": "東北ずん子",
-                "play": 233,
+                "play": 239,
                 "favorites": 7,
                 "duration": "2:7",
                 "pubdate": 1690516522
