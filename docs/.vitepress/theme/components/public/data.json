@@ -16,8 +16,8 @@
                 "url": "http://www.bilibili.com/video/av531635523",
                 "pic": "https://i1.hdslb.com/bfs/archive/180b6b83092d869fc085267ce9c280a81a4ec0f7.jpg",
                 "author": "Lukkas-",
-                "play": 434,
-                "favorites": 42,
+                "play": 445,
+                "favorites": 45,
                 "duration": "8:6",
                 "pubdate": 1690799400
             },
@@ -96,8 +96,8 @@
                 "url": "http://www.bilibili.com/video/av786414103",
                 "pic": "https://i1.hdslb.com/bfs/archive/01fddd1897d5d40ab489d6b23fe3b8728a543dd6.jpg",
                 "author": "NYN姐贵",
-                "play": 604,
-                "favorites": 40,
+                "play": 606,
+                "favorites": 41,
                 "duration": "901:42",
                 "pubdate": 1690448966
             }
@@ -105,6 +105,16 @@
     },
     {
         "俊达萌": [
+            {
+                "title": "ずんだもんの初体験 #shorts",
+                "url": "http://www.bilibili.com/video/av914210258",
+                "pic": "https://i1.hdslb.com/bfs/archive/e31cbf95429edbcecddd5aabfc6b9bff2c4246b0.jpg",
+                "author": "東北ずん子",
+                "play": 7,
+                "favorites": 0,
+                "duration": "0:37",
+                "pubdate": 1690836188
+            },
             {
                 "title": "30.【俊达萌】日语片假名词汇讲解- アカウントビリティ【中日双语】",
                 "url": "http://www.bilibili.com/video/av531741249",
@@ -120,8 +130,8 @@
                 "url": "http://www.bilibili.com/video/av531636739",
                 "pic": "https://i1.hdslb.com/bfs/archive/70028b159959da26e82ab53e1c71e022b41a3f79.jpg",
                 "author": "月夜喵",
-                "play": 5175,
-                "favorites": 123,
+                "play": 5280,
+                "favorites": 126,
                 "duration": "2:13",
                 "pubdate": 1690802701
             },
@@ -170,7 +180,7 @@
                 "url": "http://www.bilibili.com/video/av914049637",
                 "pic": "https://i1.hdslb.com/bfs/archive/14a9cf7ee012cf6385e01d0500cd3e660c0bdac9.jpg",
                 "author": "_怨念_",
-                "play": 4103,
+                "play": 4116,
                 "favorites": 66,
                 "duration": "1:36",
                 "pubdate": 1690726043
@@ -194,16 +204,6 @@
                 "favorites": 6,
                 "duration": "2:12",
                 "pubdate": 1690723921
-            },
-            {
-                "title": "【中字自译】【COCTRPG】挑战《毒汤》的俊达萌（前半）",
-                "url": "http://www.bilibili.com/video/av956532084",
-                "pic": "https://i1.hdslb.com/bfs/archive/622dd9bcd990e1557994e56d51719067ca72327b.jpg",
-                "author": "ニヤルラトホテプ",
-                "play": 82,
-                "favorites": 0,
-                "duration": "7:30",
-                "pubdate": 1690720787
             }
         ]
     }
