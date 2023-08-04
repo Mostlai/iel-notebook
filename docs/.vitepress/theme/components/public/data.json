@@ -16,8 +16,8 @@
                 "url": "http://www.bilibili.com/video/av316762649",
                 "pic": "https://i2.hdslb.com/bfs/archive/e9fdacf02ac3bbc34662b22335195448ec096d38.jpg",
                 "author": "天弓巓紺晴",
-                "play": 190,
-                "favorites": 34,
+                "play": 196,
+                "favorites": 35,
                 "duration": "2:53",
                 "pubdate": 1691076617
             },
@@ -26,8 +26,8 @@
                 "url": "http://www.bilibili.com/video/av359360443",
                 "pic": "https://i1.hdslb.com/bfs/archive/d5ad5a5c43e014252398730614fac497d812f5e4.jpg",
                 "author": "三竹草",
-                "play": 434,
-                "favorites": 16,
+                "play": 660,
+                "favorites": 22,
                 "duration": "0:22",
                 "pubdate": 1691052867
             },
@@ -76,7 +76,7 @@
                 "url": "http://www.bilibili.com/video/av404173521",
                 "pic": "https://i1.hdslb.com/bfs/archive/c26784b8cd294fcd49afb7bf42e4a90defb863b3.jpg",
                 "author": "月夜铃仙兔",
-                "play": 110,
+                "play": 111,
                 "favorites": 7,
                 "duration": "2:0",
                 "pubdate": 1690955050
@@ -106,12 +106,42 @@
     {
         "俊达萌": [
             {
+                "title": "【Project Sekai】ずんだパーリナイ［Master31］无判All Perfect",
+                "url": "http://www.bilibili.com/video/av616859950",
+                "pic": "https://i2.hdslb.com/bfs/archive/f785cf82717b3c507186d6d49e96f4e8cd004cf3.jpg",
+                "author": "奔比糖糖",
+                "play": 5,
+                "favorites": 0,
+                "duration": "3:2",
+                "pubdate": 1691132633
+            },
+            {
+                "title": "教育屑上司的俊达萌【voiceroid劇場】【アニメ】",
+                "url": "http://www.bilibili.com/video/av701809931",
+                "pic": "https://i1.hdslb.com/bfs/archive/ec9add21a66f320472dd6d289d49e9117d5bcefd.jpg",
+                "author": "東北ずん子",
+                "play": 34,
+                "favorites": 1,
+                "duration": "1:19",
+                "pubdate": 1691131839
+            },
+            {
+                "title": "本番パコパコずんだもん【ソフトウェアトーク劇場】",
+                "url": "http://www.bilibili.com/video/av871751489",
+                "pic": "https://i1.hdslb.com/bfs/archive/64896c8cc95ff5f456e18329db9364dec821ebd6.jpg",
+                "author": "東北ずん子",
+                "play": 63,
+                "favorites": 0,
+                "duration": "1:24",
+                "pubdate": 1691130544
+            },
+            {
                 "title": "【中字自译】【COCTRPG】俊达萌和玫碳的COC初体验 Part1（内含coc胎教级新手教学）",
                 "url": "http://www.bilibili.com/video/av829254317",
                 "pic": "https://i1.hdslb.com/bfs/archive/2fce934692ee02d92cb2e7332af69ca7b01839c8.jpg",
                 "author": "ニヤルラトホテプ",
-                "play": 12,
-                "favorites": 1,
+                "play": 23,
+                "favorites": 2,
                 "duration": "15:13",
                 "pubdate": 1691128897
             },
@@ -120,7 +150,7 @@
                 "url": "http://www.bilibili.com/video/av446861144",
                 "pic": "https://i1.hdslb.com/bfs/archive/55868c3d0e750959b83049d569063659b636ab20.jpg",
                 "author": "ゃまざなどう",
-                "play": 10,
+                "play": 13,
                 "favorites": 0,
                 "duration": "3:46",
                 "pubdate": 1691125094
@@ -130,8 +160,8 @@
                 "url": "http://www.bilibili.com/video/av274340139",
                 "pic": "https://i1.hdslb.com/bfs/archive/0c3d8c9920d5b89a4448b91a78637900b4f0ffe1.jpg",
                 "author": "_怨念_",
-                "play": 3524,
-                "favorites": 68,
+                "play": 4088,
+                "favorites": 75,
                 "duration": "3:31",
                 "pubdate": 1691120953
             },
@@ -140,8 +170,8 @@
                 "url": "http://www.bilibili.com/video/av489317178",
                 "pic": "https://i2.hdslb.com/bfs/archive/7b734a8cecfe937498e1c430eb9db2ca6db37be5.jpg",
                 "author": "_怨念_",
-                "play": 1679,
-                "favorites": 27,
+                "play": 1774,
+                "favorites": 28,
                 "duration": "4:7",
                 "pubdate": 1691116291
             },
@@ -150,7 +180,7 @@
                 "url": "http://www.bilibili.com/video/av871811288",
                 "pic": "https://i1.hdslb.com/bfs/archive/df1a10af3d79a9967de9f57e50ccdb0561f695ea.jpg",
                 "author": "_怨念_",
-                "play": 2747,
+                "play": 2864,
                 "favorites": 25,
                 "duration": "2:24",
                 "pubdate": 1691110169
@@ -160,8 +190,8 @@
                 "url": "http://www.bilibili.com/video/av786867205",
                 "pic": "https://i1.hdslb.com/bfs/archive/cb5a9a6135f6ff05416e7848add88fa2a635afa7.jpg",
                 "author": "BRROYI",
-                "play": 145,
-                "favorites": 4,
+                "play": 157,
+                "favorites": 5,
                 "duration": "0:29",
                 "pubdate": 1691078636
             },
@@ -170,40 +200,10 @@
                 "url": "http://www.bilibili.com/video/av829298000",
                 "pic": "https://i1.hdslb.com/bfs/archive/45c74b8ed4b8a161438d14c24f81872738a7a1a0.jpg",
                 "author": "_怨念_",
-                "play": 3982,
+                "play": 4031,
                 "favorites": 50,
                 "duration": "1:43",
                 "pubdate": 1691047800
-            },
-            {
-                "title": "（熟肉）睡过头过于离谱的社畜俊达萌",
-                "url": "http://www.bilibili.com/video/av659261302",
-                "pic": "https://i1.hdslb.com/bfs/archive/257a0fad5b65df787bb1c433942e4d08775cc3f6.jpg",
-                "author": "_怨念_",
-                "play": 4926,
-                "favorites": 61,
-                "duration": "1:55",
-                "pubdate": 1691036081
-            },
-            {
-                "title": "荷取胁迫，Day0伞的逆袭！",
-                "url": "http://www.bilibili.com/video/av616781739",
-                "pic": "https://i1.hdslb.com/bfs/archive/a67225ff3007fd690a24e57a5eca23b7be812942.jpg",
-                "author": "可爱的小伞酱",
-                "play": 9708,
-                "favorites": 364,
-                "duration": "1:23",
-                "pubdate": 1691013900
-            },
-            {
-                "title": "多娜多娜之歌 AI俊达萌 &amp; AI四国玫碳 双声道版",
-                "url": "http://www.bilibili.com/video/av914311578",
-                "pic": "https://i1.hdslb.com/bfs/archive/403566de7ecdec3e1e43707d4cab9533d3127feb.jpg",
-                "author": "吾王MrG",
-                "play": 693,
-                "favorites": 19,
-                "duration": "3:55",
-                "pubdate": 1691009553
             }
         ]
     }
