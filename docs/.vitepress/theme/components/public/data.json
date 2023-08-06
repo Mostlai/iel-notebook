@@ -2,6 +2,26 @@
     {
         "cookie": [
             {
+                "title": "NYN的梦与现实日记",
+                "url": "http://www.bilibili.com/video/av359411458",
+                "pic": "https://i1.hdslb.com/bfs/archive/96d3d84034fb76f94c38785f34f999462937147a.jpg",
+                "author": "咸茶芝士饭",
+                "play": 5,
+                "favorites": 1,
+                "duration": "2:28",
+                "pubdate": 1691347913
+            },
+            {
+                "title": "每日委托，拿60原石",
+                "url": "http://www.bilibili.com/video/av829414155",
+                "pic": "https://i1.hdslb.com/bfs/archive/23240a32c3801298a61b369c4194fa0e04769ae8.jpg",
+                "author": "Nyn姐貴258",
+                "play": 133,
+                "favorites": 0,
+                "duration": "0:10",
+                "pubdate": 1691300121
+            },
+            {
                 "title": "有点不可思议的粗点心店☆合集",
                 "url": "http://www.bilibili.com/video/av914389091",
                 "pic": "https://i2.hdslb.com/bfs/archive/81082b84933846be652a177f966532d5a8685236.jpg",
@@ -16,7 +36,7 @@
                 "url": "http://www.bilibili.com/video/av274383451",
                 "pic": "https://i1.hdslb.com/bfs/archive/d30bfa5c07719d55204e9bc87bf2c77b8bc010a2.jpg",
                 "author": "ok凛凛子",
-                "play": 134,
+                "play": 136,
                 "favorites": 22,
                 "duration": "0:26",
                 "pubdate": 1691251782
@@ -46,7 +66,7 @@
                 "url": "http://www.bilibili.com/video/av316762649",
                 "pic": "https://i2.hdslb.com/bfs/archive/e9fdacf02ac3bbc34662b22335195448ec096d38.jpg",
                 "author": "天弓巓紺晴",
-                "play": 482,
+                "play": 483,
                 "favorites": 58,
                 "duration": "2:53",
                 "pubdate": 1691076617
@@ -56,7 +76,7 @@
                 "url": "http://www.bilibili.com/video/av359360443",
                 "pic": "https://i1.hdslb.com/bfs/archive/d5ad5a5c43e014252398730614fac497d812f5e4.jpg",
                 "author": "三竹草",
-                "play": 7105,
+                "play": 7109,
                 "favorites": 308,
                 "duration": "0:22",
                 "pubdate": 1691052867
@@ -80,26 +100,6 @@
                 "favorites": 33,
                 "duration": "1:30",
                 "pubdate": 1690986070
-            },
-            {
-                "title": "2023-8-2 dr:层层全图我测你吗",
-                "url": "http://www.bilibili.com/video/av786713199",
-                "pic": "https://i1.hdslb.com/bfs/archive/6ade5f2df6c5b4e2ece39221de2fba6b514b5ad4.jpg",
-                "author": "Msc丶NYN",
-                "play": 190,
-                "favorites": 1,
-                "duration": "8:32",
-                "pubdate": 1690971416
-            },
-            {
-                "title": "【可爱NYN】我的最新作品，快来一睹为快！",
-                "url": "http://www.bilibili.com/video/av316675392",
-                "pic": "https://i1.hdslb.com/bfs/archive/75ab0216de2ecd70bc70e3dd0169975acead7478.jpg",
-                "author": "可爱NYN",
-                "play": 77,
-                "favorites": 1,
-                "duration": "0:13",
-                "pubdate": 1690957264
             }
         ]
     },
@@ -110,8 +110,8 @@
                 "url": "http://www.bilibili.com/video/av659409334",
                 "pic": "https://i1.hdslb.com/bfs/archive/1aeb80650afbfd976ea5e8380447f8404f780b85.jpg",
                 "author": "_怨念_",
-                "play": 6160,
-                "favorites": 98,
+                "play": 6449,
+                "favorites": 103,
                 "duration": "2:21",
                 "pubdate": 1691322663
             },
@@ -120,8 +120,8 @@
                 "url": "http://www.bilibili.com/video/av316949999",
                 "pic": "https://i1.hdslb.com/bfs/archive/c758f2091fb1a8dfb2132416e9f3515abbd03481.jpg",
                 "author": "月夜喵",
-                "play": 5354,
-                "favorites": 85,
+                "play": 5449,
+                "favorites": 86,
                 "duration": "1:54",
                 "pubdate": 1691320168
             },
@@ -140,8 +140,8 @@
                 "url": "http://www.bilibili.com/video/av871880094",
                 "pic": "https://i2.hdslb.com/bfs/archive/7c790c80d566f059aa88c69ac649da4d2f1aacba.jpg",
                 "author": "_怨念_",
-                "play": 2242,
-                "favorites": 35,
+                "play": 2282,
+                "favorites": 34,
                 "duration": "2:41",
                 "pubdate": 1691313356
             },
@@ -150,7 +150,7 @@
                 "url": "http://www.bilibili.com/video/av446883617",
                 "pic": "https://i1.hdslb.com/bfs/archive/3a01f4a5ad99f14ca834cae4561e27c0784f87bd.jpg",
                 "author": "拐哥",
-                "play": 194,
+                "play": 200,
                 "favorites": 7,
                 "duration": "2:49",
                 "pubdate": 1691311645
@@ -160,8 +160,8 @@
                 "url": "http://www.bilibili.com/video/av914395776",
                 "pic": "https://i1.hdslb.com/bfs/archive/d5aa7735c1cd41bb0790787ae75c8f8287ec319c.jpg",
                 "author": "_怨念_",
-                "play": 10377,
-                "favorites": 174,
+                "play": 10517,
+                "favorites": 177,
                 "duration": "2:27",
                 "pubdate": 1691294735
             },
@@ -180,7 +180,7 @@
                 "url": "http://www.bilibili.com/video/av316968455",
                 "pic": "https://i2.hdslb.com/bfs/archive/e665a7e4992423aeb6851d5d06cdc0d1a58f9f79.jpg",
                 "author": "Hot丶初夏",
-                "play": 194,
+                "play": 196,
                 "favorites": 0,
                 "duration": "3:23",
                 "pubdate": 1691280000
@@ -190,7 +190,7 @@
                 "url": "http://www.bilibili.com/video/av359436739",
                 "pic": "https://i1.hdslb.com/bfs/archive/bcf328ba12aacc076b141748355cb4242563b0df.jpg",
                 "author": "東北ずん子",
-                "play": 275,
+                "play": 276,
                 "favorites": 6,
                 "duration": "1:16",
                 "pubdate": 1691254069
@@ -200,7 +200,7 @@
                 "url": "http://www.bilibili.com/video/av404431057",
                 "pic": "https://i2.hdslb.com/bfs/archive/39da059baafd29c5a2da031379c72dcc7c8c5157.jpg",
                 "author": "東北ずん子",
-                "play": 93,
+                "play": 94,
                 "favorites": 3,
                 "duration": "0:13",
                 "pubdate": 1691253560
