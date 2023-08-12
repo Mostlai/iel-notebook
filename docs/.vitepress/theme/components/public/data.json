@@ -6,7 +6,7 @@
                 "url": "http://www.bilibili.com/video/av232210363",
                 "pic": "https://i1.hdslb.com/bfs/archive/d010613ca2b3507826361e1dd94d137a1a735582.jpg",
                 "author": "夢見月華",
-                "play": 8,
+                "play": 14,
                 "favorites": 0,
                 "duration": "0:19",
                 "pubdate": 1691801100
@@ -16,7 +16,7 @@
                 "url": "http://www.bilibili.com/video/av957148018",
                 "pic": "https://i1.hdslb.com/bfs/archive/06b6d0037966b81fb856934f9bddeb30a6b0562b.jpg",
                 "author": "一般通过のnyn",
-                "play": 216,
+                "play": 217,
                 "favorites": 0,
                 "duration": "0:11",
                 "pubdate": 1691768524
@@ -26,7 +26,7 @@
                 "url": "http://www.bilibili.com/video/av872228952",
                 "pic": "https://i1.hdslb.com/bfs/archive/9713484434886b6e6270ecb9725970df49d85fb3.jpg",
                 "author": "1em0n_2NyN",
-                "play": 38,
+                "play": 47,
                 "favorites": 0,
                 "duration": "0:22",
                 "pubdate": 1691754486
@@ -36,7 +36,7 @@
                 "url": "http://www.bilibili.com/video/av574538692",
                 "pic": "https://i1.hdslb.com/bfs/archive/9d2e86c19849415007a3a26daf0fc8b16e19cdfe.jpg",
                 "author": "ok凛凛子",
-                "play": 113,
+                "play": 114,
                 "favorites": 11,
                 "duration": "1:17",
                 "pubdate": 1691732257
@@ -46,7 +46,7 @@
                 "url": "http://www.bilibili.com/video/av317047942",
                 "pic": "https://i1.hdslb.com/bfs/archive/7eecc3e2c77e6ebc503d3a1e0857674031906d09.jpg",
                 "author": "天才阿米巴哒",
-                "play": 666,
+                "play": 670,
                 "favorites": 33,
                 "duration": "0:52",
                 "pubdate": 1691676686
@@ -56,7 +56,7 @@
                 "url": "http://www.bilibili.com/video/av362108939",
                 "pic": "https://i1.hdslb.com/bfs/archive/d453cad88f693b9e2f8f5cf76eaf6fcf349cf271.jpg",
                 "author": "FunnyJunko",
-                "play": 309,
+                "play": 319,
                 "favorites": 1,
                 "duration": "0:12",
                 "pubdate": 1691673823
@@ -66,8 +66,8 @@
                 "url": "http://www.bilibili.com/video/av603316143",
                 "pic": "https://i1.hdslb.com/bfs/archive/4cc9d3946ccdd55e8cdcb924e6790a0ff4c53782.jpg",
                 "author": "nyn姐贵的弟弟",
-                "play": 1584,
-                "favorites": 24,
+                "play": 1896,
+                "favorites": 26,
                 "duration": "0:21",
                 "pubdate": 1691644955
             },
@@ -110,7 +110,7 @@
                 "url": "http://www.bilibili.com/video/av872195530",
                 "pic": "https://i1.hdslb.com/bfs/archive/f0d1a2442cdebe675d3ce4fa48ba7f9d0a297aab.jpg",
                 "author": "ゆのん",
-                "play": 26,
+                "play": 30,
                 "favorites": 0,
                 "duration": "90:24",
                 "pubdate": 1691772465
@@ -120,8 +120,8 @@
                 "url": "http://www.bilibili.com/video/av532226172",
                 "pic": "https://i1.hdslb.com/bfs/archive/b30c67fd29b4e4db743d1ed13796c15f34b6e5d0.jpg",
                 "author": "银大友",
-                "play": 2234,
-                "favorites": 47,
+                "play": 2291,
+                "favorites": 48,
                 "duration": "5:34",
                 "pubdate": 1691765305
             },
@@ -130,7 +130,7 @@
                 "url": "http://www.bilibili.com/video/av359734694",
                 "pic": "https://i1.hdslb.com/bfs/archive/f1cd65209bacc3202826bacfb1a43d3501f9e753.jpg",
                 "author": "拐哥",
-                "play": 95,
+                "play": 97,
                 "favorites": 4,
                 "duration": "5:34",
                 "pubdate": 1691764435
@@ -140,8 +140,8 @@
                 "url": "http://www.bilibili.com/video/av317133311",
                 "pic": "https://i2.hdslb.com/bfs/archive/5359eda5118953495a32f89dac72a4bc95222e40.jpg",
                 "author": "阿赫official",
-                "play": 6892,
-                "favorites": 402,
+                "play": 7185,
+                "favorites": 417,
                 "duration": "5:45",
                 "pubdate": 1691759826
             },
@@ -150,8 +150,8 @@
                 "url": "http://www.bilibili.com/video/av787168851",
                 "pic": "https://i2.hdslb.com/bfs/archive/0e1f17201f787a6699447a0464a3909157d1e938.jpg",
                 "author": "银大友",
-                "play": 3719,
-                "favorites": 36,
+                "play": 3760,
+                "favorites": 37,
                 "duration": "1:41",
                 "pubdate": 1691750629
             },
@@ -160,8 +160,8 @@
                 "url": "http://www.bilibili.com/video/av702099211",
                 "pic": "https://i2.hdslb.com/bfs/archive/ef9f90d10cc8402ad62a0f5747f2ec0439ec35d0.jpg",
                 "author": "_怨念_",
-                "play": 3068,
-                "favorites": 51,
+                "play": 3117,
+                "favorites": 55,
                 "duration": "5:22",
                 "pubdate": 1691743053
             },
@@ -170,7 +170,7 @@
                 "url": "http://www.bilibili.com/video/av362051373",
                 "pic": "https://i2.hdslb.com/bfs/archive/161e740397324a67191c8a4d7e3b0ef9a9e707f8.jpg",
                 "author": "黄铜灯1453",
-                "play": 131,
+                "play": 132,
                 "favorites": 2,
                 "duration": "1:4",
                 "pubdate": 1691742184
@@ -180,7 +180,7 @@
                 "url": "http://www.bilibili.com/video/av574538692",
                 "pic": "https://i1.hdslb.com/bfs/archive/9d2e86c19849415007a3a26daf0fc8b16e19cdfe.jpg",
                 "author": "ok凛凛子",
-                "play": 113,
+                "play": 114,
                 "favorites": 11,
                 "duration": "1:17",
                 "pubdate": 1691732257
@@ -200,7 +200,7 @@
                 "url": "http://www.bilibili.com/video/av872017839",
                 "pic": "https://i1.hdslb.com/bfs/archive/2ee3b361aa597a7035bd54a217a386c160f58fd6.jpg",
                 "author": "夹心酱Asteroid",
-                "play": 9,
+                "play": 14,
                 "favorites": 0,
                 "duration": "1:18",
                 "pubdate": 1691729763
