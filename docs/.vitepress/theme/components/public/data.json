@@ -6,7 +6,7 @@
                 "url": "http://www.bilibili.com/video/av232210363",
                 "pic": "https://i1.hdslb.com/bfs/archive/d010613ca2b3507826361e1dd94d137a1a735582.jpg",
                 "author": "夢見月華",
-                "play": 20,
+                "play": 22,
                 "favorites": 0,
                 "duration": "0:19",
                 "pubdate": 1691801100
@@ -16,7 +16,7 @@
                 "url": "http://www.bilibili.com/video/av957148018",
                 "pic": "https://i1.hdslb.com/bfs/archive/06b6d0037966b81fb856934f9bddeb30a6b0562b.jpg",
                 "author": "一般通过のnyn",
-                "play": 224,
+                "play": 228,
                 "favorites": 0,
                 "duration": "0:11",
                 "pubdate": 1691768524
@@ -36,8 +36,8 @@
                 "url": "http://www.bilibili.com/video/av574538692",
                 "pic": "https://i1.hdslb.com/bfs/archive/9d2e86c19849415007a3a26daf0fc8b16e19cdfe.jpg",
                 "author": "ok凛凛子",
-                "play": 127,
-                "favorites": 12,
+                "play": 132,
+                "favorites": 13,
                 "duration": "1:17",
                 "pubdate": 1691732257
             },
@@ -46,7 +46,7 @@
                 "url": "http://www.bilibili.com/video/av317047942",
                 "pic": "https://i1.hdslb.com/bfs/archive/7eecc3e2c77e6ebc503d3a1e0857674031906d09.jpg",
                 "author": "天才阿米巴哒",
-                "play": 680,
+                "play": 685,
                 "favorites": 33,
                 "duration": "0:52",
                 "pubdate": 1691676686
@@ -56,8 +56,8 @@
                 "url": "http://www.bilibili.com/video/av362108939",
                 "pic": "https://i1.hdslb.com/bfs/archive/d453cad88f693b9e2f8f5cf76eaf6fcf349cf271.jpg",
                 "author": "FunnyJunko",
-                "play": 346,
-                "favorites": 1,
+                "play": 385,
+                "favorites": 2,
                 "duration": "0:12",
                 "pubdate": 1691673823
             },
@@ -66,8 +66,8 @@
                 "url": "http://www.bilibili.com/video/av603316143",
                 "pic": "https://i1.hdslb.com/bfs/archive/4cc9d3946ccdd55e8cdcb924e6790a0ff4c53782.jpg",
                 "author": "nyn姐贵的弟弟",
-                "play": 2847,
-                "favorites": 39,
+                "play": 3575,
+                "favorites": 45,
                 "duration": "0:21",
                 "pubdate": 1691644955
             },
@@ -96,8 +96,8 @@
                 "url": "http://www.bilibili.com/video/av702061636",
                 "pic": "https://i1.hdslb.com/bfs/archive/9cd88f9f9c6871206579ca477cf5489b319024e9.jpg",
                 "author": "FRN姉貴",
-                "play": 802,
-                "favorites": 83,
+                "play": 805,
+                "favorites": 84,
                 "duration": "1:54",
                 "pubdate": 1691519066
             }
@@ -106,11 +106,21 @@
     {
         "俊达萌": [
             {
+                "title": "【C102告知动画】俊达萌 チャンネル登録よろしくお願いします「频道订阅拜托各位了 (gyari)(中文字幕)",
+                "url": "http://www.bilibili.com/video/av957175157",
+                "pic": "https://i1.hdslb.com/bfs/archive/04f9aabcd25df42d3354f06c00efaddace3412ca.jpg",
+                "author": "かいりきベア_official",
+                "play": 28,
+                "favorites": 0,
+                "duration": "5:34",
+                "pubdate": 1691813831
+            },
+            {
                 "title": "被开学通知烦死的四国玫碳",
                 "url": "http://www.bilibili.com/video/av787177406",
                 "pic": "https://i1.hdslb.com/bfs/archive/d576a5210b625cb0b3d9c95d0340b33847df8c1b.jpg",
                 "author": "神龙快递",
-                "play": 9,
+                "play": 13,
                 "favorites": 0,
                 "duration": "0:15",
                 "pubdate": 1691805326
@@ -120,7 +130,7 @@
                 "url": "http://www.bilibili.com/video/av872195530",
                 "pic": "https://i1.hdslb.com/bfs/archive/f0d1a2442cdebe675d3ce4fa48ba7f9d0a297aab.jpg",
                 "author": "ゆのん",
-                "play": 37,
+                "play": 47,
                 "favorites": 1,
                 "duration": "90:24",
                 "pubdate": 1691772465
@@ -130,8 +140,8 @@
                 "url": "http://www.bilibili.com/video/av532226172",
                 "pic": "https://i1.hdslb.com/bfs/archive/b30c67fd29b4e4db743d1ed13796c15f34b6e5d0.jpg",
                 "author": "银大友",
-                "play": 2415,
-                "favorites": 50,
+                "play": 2482,
+                "favorites": 52,
                 "duration": "5:34",
                 "pubdate": 1691765305
             },
@@ -140,18 +150,18 @@
                 "url": "http://www.bilibili.com/video/av359734694",
                 "pic": "https://i1.hdslb.com/bfs/archive/f1cd65209bacc3202826bacfb1a43d3501f9e753.jpg",
                 "author": "拐哥",
-                "play": 99,
-                "favorites": 4,
+                "play": 102,
+                "favorites": 5,
                 "duration": "5:34",
                 "pubdate": 1691764435
             },
             {
-                "title": "【C102告知动画】俊达萌「频道登陆拜托各位了」【GYARI（ココアシガレットP）】",
+                "title": "【C102告知动画】俊达萌「频道订阅拜托各位了」【GYARI（ココアシガレットP）】",
                 "url": "http://www.bilibili.com/video/av317133311",
                 "pic": "https://i2.hdslb.com/bfs/archive/5359eda5118953495a32f89dac72a4bc95222e40.jpg",
                 "author": "阿赫official",
-                "play": 7993,
-                "favorites": 455,
+                "play": 8467,
+                "favorites": 474,
                 "duration": "5:45",
                 "pubdate": 1691759826
             },
@@ -160,7 +170,7 @@
                 "url": "http://www.bilibili.com/video/av787168851",
                 "pic": "https://i2.hdslb.com/bfs/archive/0e1f17201f787a6699447a0464a3909157d1e938.jpg",
                 "author": "银大友",
-                "play": 3884,
+                "play": 3958,
                 "favorites": 37,
                 "duration": "1:41",
                 "pubdate": 1691750629
@@ -170,8 +180,8 @@
                 "url": "http://www.bilibili.com/video/av702099211",
                 "pic": "https://i2.hdslb.com/bfs/archive/ef9f90d10cc8402ad62a0f5747f2ec0439ec35d0.jpg",
                 "author": "_怨念_",
-                "play": 3231,
-                "favorites": 55,
+                "play": 3309,
+                "favorites": 56,
                 "duration": "5:22",
                 "pubdate": 1691743053
             },
@@ -180,8 +190,8 @@
                 "url": "http://www.bilibili.com/video/av362051373",
                 "pic": "https://i2.hdslb.com/bfs/archive/161e740397324a67191c8a4d7e3b0ef9a9e707f8.jpg",
                 "author": "黄铜灯1453",
-                "play": 145,
-                "favorites": 2,
+                "play": 156,
+                "favorites": 3,
                 "duration": "1:4",
                 "pubdate": 1691742184
             },
@@ -190,20 +200,10 @@
                 "url": "http://www.bilibili.com/video/av574538692",
                 "pic": "https://i1.hdslb.com/bfs/archive/9d2e86c19849415007a3a26daf0fc8b16e19cdfe.jpg",
                 "author": "ok凛凛子",
-                "play": 127,
-                "favorites": 12,
+                "play": 132,
+                "favorites": 13,
                 "duration": "1:17",
                 "pubdate": 1691732257
-            },
-            {
-                "title": "【中字自译】【COCTRPG】俊达萌和玫碳的COC初体验 Part2",
-                "url": "http://www.bilibili.com/video/av617103764",
-                "pic": "https://i1.hdslb.com/bfs/archive/f5b7869885a030db7964587d80e9fc08ac9408a0.jpg",
-                "author": "ニヤルラトホテプ",
-                "play": 70,
-                "favorites": 3,
-                "duration": "14:52",
-                "pubdate": 1691730537
             }
         ]
     }
