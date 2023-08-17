@@ -6,7 +6,7 @@
                 "url": "http://www.bilibili.com/video/av914854907",
                 "pic": "https://i2.hdslb.com/bfs/archive/c5e22fead1d20fcf3c6250e2f0ac913d7177e643.jpg",
                 "author": "れいせん参上",
-                "play": 124,
+                "play": 146,
                 "favorites": 4,
                 "duration": "0:14",
                 "pubdate": 1692228374
@@ -16,7 +16,7 @@
                 "url": "http://www.bilibili.com/video/av232335517",
                 "pic": "https://i2.hdslb.com/bfs/archive/348f7aa8c4f2ba1262e35d120c404797dff77ed7.jpg",
                 "author": "一般通过のnyn",
-                "play": 100,
+                "play": 103,
                 "favorites": 0,
                 "duration": "0:7",
                 "pubdate": 1692175647
@@ -36,7 +36,7 @@
                 "url": "http://www.bilibili.com/video/av404755187",
                 "pic": "https://i2.hdslb.com/bfs/archive/acd43e14c8d75ad177cfc3e64dc9984c1570098c.jpg",
                 "author": "我和你吻别在那镇前街",
-                "play": 1253,
+                "play": 1257,
                 "favorites": 21,
                 "duration": "0:45",
                 "pubdate": 1692081211
@@ -56,7 +56,7 @@
                 "url": "http://www.bilibili.com/video/av744749789",
                 "pic": "https://i1.hdslb.com/bfs/archive/e721c868c0fc89b6627512a1e381206bea2e81ab.jpg",
                 "author": "冻鱼兰",
-                "play": 1176,
+                "play": 1186,
                 "favorites": 73,
                 "duration": "1:4",
                 "pubdate": 1692006386
@@ -66,7 +66,7 @@
                 "url": "http://www.bilibili.com/video/av829646980",
                 "pic": "https://i1.hdslb.com/bfs/archive/38304484f2177ae10e5ebf76f4cc4d34cdd06ab6.jpg",
                 "author": "ICG姐贵",
-                "play": 1053,
+                "play": 1058,
                 "favorites": 69,
                 "duration": "0:16",
                 "pubdate": 1691939790
@@ -76,8 +76,8 @@
                 "url": "http://www.bilibili.com/video/av787154401",
                 "pic": "https://i1.hdslb.com/bfs/archive/6b126271f9f84a13c66d6f5f18eb2d5a56d6d534.jpg",
                 "author": "想成为岛风的大和",
-                "play": 6542,
-                "favorites": 140,
+                "play": 6664,
+                "favorites": 141,
                 "duration": "2:14",
                 "pubdate": 1691929277
             },
@@ -96,8 +96,8 @@
                 "url": "http://www.bilibili.com/video/av999734523",
                 "pic": "https://i2.hdslb.com/bfs/archive/dad48a3190aac94e2cbe77661ae7a66796656ec0.jpg",
                 "author": "NYN姐贵",
-                "play": 1017,
-                "favorites": 63,
+                "play": 1022,
+                "favorites": 64,
                 "duration": "5:29",
                 "pubdate": 1691917751
             }
@@ -105,6 +105,16 @@
     },
     {
         "俊达萌": [
+            {
+                "title": "身为偶像却被拒之门外的俊达萌/シャットアウトされたずんだもんなのだ",
+                "url": "http://www.bilibili.com/video/av532343328",
+                "pic": "https://i2.hdslb.com/bfs/archive/7a705c16fd9df5ab8300cd18dd25efa15ff952df.jpg",
+                "author": "ゆのん",
+                "play": 5,
+                "favorites": 0,
+                "duration": "5:23",
+                "pubdate": 1692241200
+            },
             {
                 "title": "58.【俊达萌】日语片假名词汇讲解- アプリ【中日双语】",
                 "url": "http://www.bilibili.com/video/av999782709",
@@ -140,8 +150,8 @@
                 "url": "http://www.bilibili.com/video/av999799997",
                 "pic": "https://i1.hdslb.com/bfs/archive/53dac6788aaa4a949b6088648c7a76e87ba8e1f2.jpg",
                 "author": "東北ずん子",
-                "play": 719,
-                "favorites": 16,
+                "play": 804,
+                "favorites": 18,
                 "duration": "3:22",
                 "pubdate": 1692173807
             },
@@ -150,8 +160,8 @@
                 "url": "http://www.bilibili.com/video/av957284270",
                 "pic": "https://i1.hdslb.com/bfs/archive/bbaf6eb23fe5d56275a090223900e0dd0e658e86.jpg",
                 "author": "_怨念_",
-                "play": 3235,
-                "favorites": 70,
+                "play": 3288,
+                "favorites": 71,
                 "duration": "5:11",
                 "pubdate": 1692162807
             },
@@ -160,7 +170,7 @@
                 "url": "http://www.bilibili.com/video/av702360489",
                 "pic": "https://i1.hdslb.com/bfs/archive/21a5611599395f6041f01cb1721e3bcff81c8fe7.jpg",
                 "author": "ClerkEast",
-                "play": 198,
+                "play": 204,
                 "favorites": 1,
                 "duration": "1:5",
                 "pubdate": 1692121180
@@ -170,7 +180,7 @@
                 "url": "http://www.bilibili.com/video/av659777969",
                 "pic": "https://i2.hdslb.com/bfs/archive/833dfb273293c84c27fa7a57e39b73587bb744b5.jpg",
                 "author": "wado_893",
-                "play": 24,
+                "play": 25,
                 "favorites": 0,
                 "duration": "4:41",
                 "pubdate": 1692116533
@@ -190,20 +200,10 @@
                 "url": "http://www.bilibili.com/video/av574857964",
                 "pic": "https://i2.hdslb.com/bfs/archive/fa457347ecc469ccf8ae71af035c75e92522f3a0.jpg",
                 "author": "拐哥",
-                "play": 89,
+                "play": 90,
                 "favorites": 1,
                 "duration": "2:32",
                 "pubdate": 1692106779
-            },
-            {
-                "title": "周刊NICONICO排行榜 #849 -8月第2周-",
-                "url": "http://www.bilibili.com/video/av359808134",
-                "pic": "https://i1.hdslb.com/bfs/archive/11c21fb94aaeaef52b8f6250e5fff408424b616b.jpg",
-                "author": "星幻丶碎梦",
-                "play": 138,
-                "favorites": 3,
-                "duration": "19:43",
-                "pubdate": 1692105728
             }
         ]
     }
