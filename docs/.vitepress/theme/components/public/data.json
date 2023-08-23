@@ -6,7 +6,7 @@
                 "url": "http://www.bilibili.com/video/av745220903",
                 "pic": "https://i1.hdslb.com/bfs/archive/673f89f09e3360798f7e30de089bc9a4b9fb122f.jpg",
                 "author": "Broken-puppet",
-                "play": 15,
+                "play": 23,
                 "favorites": 3,
                 "duration": "1:36",
                 "pubdate": 1692796802
@@ -16,7 +16,7 @@
                 "url": "http://www.bilibili.com/video/av660004546",
                 "pic": "https://i2.hdslb.com/bfs/archive/d6cf8b5e9c2eddd44b249b097ebe78bf05565741.jpg",
                 "author": "本场猛",
-                "play": 71,
+                "play": 103,
                 "favorites": 0,
                 "duration": "7:16",
                 "pubdate": 1692781434
@@ -26,7 +26,7 @@
                 "url": "http://www.bilibili.com/video/av532506802",
                 "pic": "https://i2.hdslb.com/bfs/archive/90525f7b9ab2e07f199242b7bc4630f38a398d4b.jpg",
                 "author": "六号射击",
-                "play": 50,
+                "play": 52,
                 "favorites": 7,
                 "duration": "0:32",
                 "pubdate": 1692779021
@@ -36,7 +36,7 @@
                 "url": "http://www.bilibili.com/video/av872594800",
                 "pic": "https://i2.hdslb.com/bfs/archive/fdb6e6f943efa652d201abec2354ea3031e20d48.jpg",
                 "author": "可爱的小汉斯猫",
-                "play": 103,
+                "play": 106,
                 "favorites": 2,
                 "duration": "1:59",
                 "pubdate": 1692774534
@@ -76,7 +76,7 @@
                 "url": "http://www.bilibili.com/video/av872608904",
                 "pic": "https://i1.hdslb.com/bfs/archive/503e507dce9ae4395e67cbd4776e907774983c54.jpg",
                 "author": "陶圣-",
-                "play": 80,
+                "play": 83,
                 "favorites": 7,
                 "duration": "1:20",
                 "pubdate": 1692698983
@@ -86,7 +86,7 @@
                 "url": "http://www.bilibili.com/video/av745083732",
                 "pic": "https://i1.hdslb.com/bfs/archive/74a05db881f9f70de72f1f4d2be11465b0142bc0.jpg",
                 "author": "zzz琉璃zzz",
-                "play": 358,
+                "play": 362,
                 "favorites": 3,
                 "duration": "6:30",
                 "pubdate": 1692633955
@@ -96,7 +96,7 @@
                 "url": "http://www.bilibili.com/video/av232523206",
                 "pic": "https://i1.hdslb.com/bfs/archive/5d6b52ec90b96bf5ccbe134169afa9155bc386a6.jpg",
                 "author": "草田kusada",
-                "play": 1646,
+                "play": 1657,
                 "favorites": 81,
                 "duration": "3:31",
                 "pubdate": 1692532420
@@ -106,12 +106,22 @@
     {
         "俊达萌": [
             {
+                "title": "好无聊啊【语音合成软件剧场】",
+                "url": "http://www.bilibili.com/video/av745213978",
+                "pic": "https://i1.hdslb.com/bfs/archive/8ff18bef80b768678db118eb4979a0d9f0ff6f92.jpg",
+                "author": "拐哥",
+                "play": 90,
+                "favorites": 2,
+                "duration": "2:1",
+                "pubdate": 1692800958
+            },
+            {
                 "title": "切蒲英棒很涩气",
                 "url": "http://www.bilibili.com/video/av405125004",
                 "pic": "https://i2.hdslb.com/bfs/archive/d82946e9f9cb2c3af6ba5ea3206605e96cb1a532.jpg",
                 "author": "拐哥",
-                "play": 33,
-                "favorites": 1,
+                "play": 66,
+                "favorites": 2,
                 "duration": "2:20",
                 "pubdate": 1692800391
             },
@@ -120,7 +130,7 @@
                 "url": "http://www.bilibili.com/video/av362614042",
                 "pic": "https://i1.hdslb.com/bfs/archive/631205d74c48ad8ca2cccab341e64110126d1687.jpg",
                 "author": "黑索blackCable",
-                "play": 59,
+                "play": 63,
                 "favorites": 1,
                 "duration": "2:53",
                 "pubdate": 1692792900
@@ -130,7 +140,7 @@
                 "url": "http://www.bilibili.com/video/av275099416",
                 "pic": "https://i1.hdslb.com/bfs/archive/1173f7d2fed60d447ee1d535b30df1ef65683b20.jpg",
                 "author": "ゆのん",
-                "play": 144,
+                "play": 203,
                 "favorites": 3,
                 "duration": "9:12",
                 "pubdate": 1692786600
@@ -140,8 +150,8 @@
                 "url": "http://www.bilibili.com/video/av957632965",
                 "pic": "https://i2.hdslb.com/bfs/archive/5a4450408581b376be44eb2153bcebbc324a26e7.jpg",
                 "author": "非人菌",
-                "play": 182,
-                "favorites": 6,
+                "play": 286,
+                "favorites": 8,
                 "duration": "0:37",
                 "pubdate": 1692783377
             },
@@ -150,7 +160,7 @@
                 "url": "http://www.bilibili.com/video/av745026266",
                 "pic": "https://i2.hdslb.com/bfs/archive/aa27d2c4752b5e91bf473004ad4e7b7fc83c26bb.jpg",
                 "author": "奇卡奇卡卡奇卡",
-                "play": 62,
+                "play": 72,
                 "favorites": 0,
                 "duration": "1:5",
                 "pubdate": 1692780426
@@ -160,7 +170,7 @@
                 "url": "http://www.bilibili.com/video/av830124716",
                 "pic": "https://i2.hdslb.com/bfs/archive/e52e807adef1371b53b4fe5c9c8cca1ebe8f1e33.jpg",
                 "author": "拐哥",
-                "play": 121,
+                "play": 124,
                 "favorites": 0,
                 "duration": "8:1",
                 "pubdate": 1692767021
@@ -170,7 +180,7 @@
                 "url": "http://www.bilibili.com/video/av960014271",
                 "pic": "https://i1.hdslb.com/bfs/archive/1c93fa-18a1cd90b39.jpeg",
                 "author": "_怨念_",
-                "play": 4255,
+                "play": 4359,
                 "favorites": 69,
                 "duration": "3:14",
                 "pubdate": 1692757800
@@ -180,8 +190,8 @@
                 "url": "http://www.bilibili.com/video/av745042739",
                 "pic": "https://i1.hdslb.com/bfs/archive/461777d7da5174b2a4c84fd47b1f868277c4e841.jpg",
                 "author": "ぬぬぬぬぬぬぬぬぬぬ",
-                "play": 38213,
-                "favorites": 1230,
+                "play": 39758,
+                "favorites": 1271,
                 "duration": "1:41",
                 "pubdate": 1692749400
             },
@@ -194,16 +204,6 @@
                 "favorites": 6,
                 "duration": "0:37",
                 "pubdate": 1692720000
-            },
-            {
-                "title": "周刊NICONICO排行榜 #850 -8月第3周-",
-                "url": "http://www.bilibili.com/video/av362599674",
-                "pic": "https://i1.hdslb.com/bfs/archive/900c52c-18a1dddc07d.jpeg",
-                "author": "星幻丶碎梦",
-                "play": 68,
-                "favorites": 0,
-                "duration": "18:42",
-                "pubdate": 1692719021
             }
         ]
     }
