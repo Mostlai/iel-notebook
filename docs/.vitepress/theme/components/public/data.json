@@ -6,7 +6,7 @@
                 "url": "http://www.bilibili.com/video/av788047323",
                 "pic": "https://i1.hdslb.com/bfs/archive/da4fdd86771452924242875755d585e3b418991a.jpg",
                 "author": "可爱的胶伞酱",
-                "play": 784,
+                "play": 796,
                 "favorites": 18,
                 "duration": "1:34",
                 "pubdate": 1693668761
@@ -16,7 +16,7 @@
                 "url": "http://www.bilibili.com/video/av532936698",
                 "pic": "https://i1.hdslb.com/bfs/archive/af54180d694517d68e85cfb44dfe56c0bcaca6f4.jpg",
                 "author": "1em0n_2NyN",
-                "play": 215,
+                "play": 218,
                 "favorites": 0,
                 "duration": "0:43",
                 "pubdate": 1693570100
@@ -26,7 +26,7 @@
                 "url": "http://www.bilibili.com/video/av702983034",
                 "pic": "https://i1.hdslb.com/bfs/archive/0f26004ad14da6ba786ddc016a439729a1c8f908.jpg",
                 "author": "1em0n_2NyN",
-                "play": 224,
+                "play": 225,
                 "favorites": 0,
                 "duration": "0:19",
                 "pubdate": 1693490284
@@ -96,8 +96,8 @@
                 "url": "http://www.bilibili.com/video/av915302990",
                 "pic": "https://i1.hdslb.com/bfs/archive/8ca64b3ee07e843789eea8b60955f4d4c22b8792.jpg",
                 "author": "一般通过のnyn",
-                "play": 15929,
-                "favorites": 649,
+                "play": 15955,
+                "favorites": 651,
                 "duration": "0:42",
                 "pubdate": 1693148384
             }
@@ -106,12 +106,22 @@
     {
         "俊达萌": [
             {
+                "title": "【授权汉化】一般俊达萌脱糞系列",
+                "url": "http://www.bilibili.com/video/av448070705",
+                "pic": "https://i1.hdslb.com/bfs/archive/dc3c78529034d5eea17c22d9ed122ff72eb5cab2.jpg",
+                "author": "月夜喵",
+                "play": 2268,
+                "favorites": 23,
+                "duration": "0:46",
+                "pubdate": 1693737860
+            },
+            {
                 "title": "（熟肉）教授女忍者“特殊忍术”的俊达萌",
                 "url": "http://www.bilibili.com/video/av745595776",
                 "pic": "https://i1.hdslb.com/bfs/archive/1fd709b833ea77288bd96bf76ea1054044bf0d85.jpg",
                 "author": "_怨念_",
-                "play": 1758,
-                "favorites": 28,
+                "play": 1945,
+                "favorites": 32,
                 "duration": "3:12",
                 "pubdate": 1693726977
             },
@@ -120,8 +130,8 @@
                 "url": "http://www.bilibili.com/video/av873018741",
                 "pic": "https://i1.hdslb.com/bfs/archive/c8be50907d2185d6ddd006b4b96cf6efc7fad2a3.jpg",
                 "author": "ニヤルラトホテプ",
-                "play": 889,
-                "favorites": 21,
+                "play": 1313,
+                "favorites": 29,
                 "duration": "2:33",
                 "pubdate": 1693725984
             },
@@ -130,8 +140,8 @@
                 "url": "http://www.bilibili.com/video/av233032043",
                 "pic": "https://i1.hdslb.com/bfs/archive/9dbb8f4a45814a543b403a17daf844af57936ee2.jpg",
                 "author": "我是小柿",
-                "play": 179,
-                "favorites": 1,
+                "play": 183,
+                "favorites": 2,
                 "duration": "0:14",
                 "pubdate": 1693711862
             },
@@ -140,7 +150,7 @@
                 "url": "http://www.bilibili.com/video/av915503127",
                 "pic": "https://i1.hdslb.com/bfs/archive/c3be43ca0628cbba48678a3c601dd093e756fbba.jpg",
                 "author": "東北ずん子",
-                "play": 207,
+                "play": 209,
                 "favorites": 4,
                 "duration": "4:7",
                 "pubdate": 1693660514
@@ -150,8 +160,8 @@
                 "url": "http://www.bilibili.com/video/av958122766",
                 "pic": "https://i1.hdslb.com/bfs/archive/e3de51f09da49c0a4d748d965bb86975f866f591.jpg",
                 "author": "俊俊俊俊俊达萌",
-                "play": 1079,
-                "favorites": 16,
+                "play": 1099,
+                "favorites": 17,
                 "duration": "0:21",
                 "pubdate": 1693653793
             },
@@ -160,8 +170,8 @@
                 "url": "http://www.bilibili.com/video/av618099314",
                 "pic": "https://i1.hdslb.com/bfs/archive/43cfd39aa95aa74ff17c937d4b42ff089abd0952.jpg",
                 "author": "東北ずん子",
-                "play": 182,
-                "favorites": 3,
+                "play": 186,
+                "favorites": 4,
                 "duration": "2:15",
                 "pubdate": 1693647168
             },
@@ -170,7 +180,7 @@
                 "url": "http://www.bilibili.com/video/av448024856",
                 "pic": "https://i1.hdslb.com/bfs/archive/29c4247dc2c1f387ab445e053248cd94d18d592d.jpg",
                 "author": "東北ずん子",
-                "play": 84,
+                "play": 85,
                 "favorites": 6,
                 "duration": "5:51",
                 "pubdate": 1693645514
@@ -190,20 +200,10 @@
                 "url": "http://www.bilibili.com/video/av275574389",
                 "pic": "https://i2.hdslb.com/bfs/archive/4476eb0e8e311327e1226c8e7d4466cf1d2b1972.jpg",
                 "author": "東北ずん子",
-                "play": 330,
-                "favorites": 10,
+                "play": 342,
+                "favorites": 11,
                 "duration": "2:31",
                 "pubdate": 1693643841
-            },
-            {
-                "title": "ずんだもん、ちんちんが苦しい。",
-                "url": "http://www.bilibili.com/video/av490500419",
-                "pic": "https://i1.hdslb.com/bfs/archive/de3d5e130d72aa39b50be02dce95a282aff3e0f7.jpg",
-                "author": "東北ずん子",
-                "play": 201,
-                "favorites": 11,
-                "duration": "3:5",
-                "pubdate": 1693643314
             }
         ]
     }
