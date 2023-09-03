@@ -6,7 +6,7 @@
                 "url": "http://www.bilibili.com/video/av788047323",
                 "pic": "https://i1.hdslb.com/bfs/archive/da4fdd86771452924242875755d585e3b418991a.jpg",
                 "author": "可爱的胶伞酱",
-                "play": 821,
+                "play": 829,
                 "favorites": 18,
                 "duration": "1:34",
                 "pubdate": 1693668761
@@ -16,7 +16,7 @@
                 "url": "http://www.bilibili.com/video/av532936698",
                 "pic": "https://i1.hdslb.com/bfs/archive/af54180d694517d68e85cfb44dfe56c0bcaca6f4.jpg",
                 "author": "1em0n_2NyN",
-                "play": 221,
+                "play": 224,
                 "favorites": 0,
                 "duration": "0:43",
                 "pubdate": 1693570100
@@ -56,7 +56,7 @@
                 "url": "http://www.bilibili.com/video/av960456066",
                 "pic": "https://i1.hdslb.com/bfs/archive/381513f1f6026cddb4560ad722a98803ff2b75d9.jpg",
                 "author": "只是一只冰之妖精",
-                "play": 223,
+                "play": 224,
                 "favorites": 21,
                 "duration": "0:28",
                 "pubdate": 1693351672
@@ -96,7 +96,7 @@
                 "url": "http://www.bilibili.com/video/av915302990",
                 "pic": "https://i1.hdslb.com/bfs/archive/8ca64b3ee07e843789eea8b60955f4d4c22b8792.jpg",
                 "author": "一般通过のnyn",
-                "play": 15989,
+                "play": 15997,
                 "favorites": 654,
                 "duration": "0:42",
                 "pubdate": 1693148384
@@ -106,11 +106,21 @@
     {
         "俊达萌": [
             {
+                "title": "东北俊子「把女孩子弄哭是不行的！（泣）」:语音合成软件剧场",
+                "url": "http://www.bilibili.com/video/av533052329",
+                "pic": "https://i1.hdslb.com/bfs/archive/a68e81942b53efb30bfdc91cbbd358568a711512.jpg",
+                "author": "拐哥",
+                "play": 38,
+                "favorites": 0,
+                "duration": "3:32",
+                "pubdate": 1693746384
+            },
+            {
                 "title": "第一个(非正式)视频,同时试水",
                 "url": "http://www.bilibili.com/video/av958098722",
                 "pic": "https://i2.hdslb.com/bfs/archive/3bf9eacb88a8228c35706e53034307d0b2f35de6.jpg",
                 "author": "Zhisu2052",
-                "play": 0,
+                "play": 2,
                 "favorites": 0,
                 "duration": "0:50",
                 "pubdate": 1693744725
@@ -120,8 +130,8 @@
                 "url": "http://www.bilibili.com/video/av320524363",
                 "pic": "https://i1.hdslb.com/bfs/archive/795bf3cc4abdab8ac0e57e548dfbed2c1a8b3921.jpg",
                 "author": "_怨念_",
-                "play": 540,
-                "favorites": 2,
+                "play": 718,
+                "favorites": 4,
                 "duration": "1:20",
                 "pubdate": 1693742042
             },
@@ -130,8 +140,8 @@
                 "url": "http://www.bilibili.com/video/av448070705",
                 "pic": "https://i1.hdslb.com/bfs/archive/dc3c78529034d5eea17c22d9ed122ff72eb5cab2.jpg",
                 "author": "月夜喵",
-                "play": 3549,
-                "favorites": 37,
+                "play": 3916,
+                "favorites": 41,
                 "duration": "0:46",
                 "pubdate": 1693737860
             },
@@ -140,8 +150,8 @@
                 "url": "http://www.bilibili.com/video/av745595776",
                 "pic": "https://i1.hdslb.com/bfs/archive/1fd709b833ea77288bd96bf76ea1054044bf0d85.jpg",
                 "author": "_怨念_",
-                "play": 2343,
-                "favorites": 42,
+                "play": 2521,
+                "favorites": 45,
                 "duration": "3:12",
                 "pubdate": 1693726977
             },
@@ -150,8 +160,8 @@
                 "url": "http://www.bilibili.com/video/av873018741",
                 "pic": "https://i1.hdslb.com/bfs/archive/c8be50907d2185d6ddd006b4b96cf6efc7fad2a3.jpg",
                 "author": "ニヤルラトホテプ",
-                "play": 2106,
-                "favorites": 54,
+                "play": 2803,
+                "favorites": 72,
                 "duration": "2:33",
                 "pubdate": 1693725984
             },
@@ -160,7 +170,7 @@
                 "url": "http://www.bilibili.com/video/av233032043",
                 "pic": "https://i1.hdslb.com/bfs/archive/9dbb8f4a45814a543b403a17daf844af57936ee2.jpg",
                 "author": "我是小柿",
-                "play": 186,
+                "play": 187,
                 "favorites": 2,
                 "duration": "0:14",
                 "pubdate": 1693711862
@@ -170,7 +180,7 @@
                 "url": "http://www.bilibili.com/video/av915503127",
                 "pic": "https://i1.hdslb.com/bfs/archive/c3be43ca0628cbba48678a3c601dd093e756fbba.jpg",
                 "author": "東北ずん子",
-                "play": 209,
+                "play": 213,
                 "favorites": 4,
                 "duration": "4:7",
                 "pubdate": 1693660514
@@ -180,8 +190,8 @@
                 "url": "http://www.bilibili.com/video/av958122766",
                 "pic": "https://i1.hdslb.com/bfs/archive/e3de51f09da49c0a4d748d965bb86975f866f591.jpg",
                 "author": "俊俊俊俊俊达萌",
-                "play": 1114,
-                "favorites": 17,
+                "play": 1126,
+                "favorites": 18,
                 "duration": "0:21",
                 "pubdate": 1693653793
             },
@@ -194,16 +204,6 @@
                 "favorites": 4,
                 "duration": "2:15",
                 "pubdate": 1693647168
-            },
-            {
-                "title": "苦恼与父亲的关系的俊达萌【VOICEVOX剧场】",
-                "url": "http://www.bilibili.com/video/av448024856",
-                "pic": "https://i1.hdslb.com/bfs/archive/29c4247dc2c1f387ab445e053248cd94d18d592d.jpg",
-                "author": "東北ずん子",
-                "play": 87,
-                "favorites": 6,
-                "duration": "5:51",
-                "pubdate": 1693645514
             }
         ]
     }
