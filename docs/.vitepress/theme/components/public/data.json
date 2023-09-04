@@ -6,7 +6,7 @@
                 "url": "http://www.bilibili.com/video/av960612653",
                 "pic": "https://i1.hdslb.com/bfs/archive/9378c9b5130a52b92b43c1c63be0ded4a3d04fc0.jpg",
                 "author": "很威严的贵客",
-                "play": 0,
+                "play": 1,
                 "favorites": 0,
                 "duration": "0:23",
                 "pubdate": 1693851251
@@ -16,7 +16,7 @@
                 "url": "http://www.bilibili.com/video/av788107258",
                 "pic": "https://i1.hdslb.com/bfs/archive/717e4995a68c978b9033e86bb2b678d4cd2502bc.jpg",
                 "author": "Wpigeon",
-                "play": 6,
+                "play": 7,
                 "favorites": 0,
                 "duration": "4:40",
                 "pubdate": 1693843288
@@ -26,7 +26,7 @@
                 "url": "http://www.bilibili.com/video/av788012318",
                 "pic": "https://i1.hdslb.com/bfs/archive/dde4e063d302f5857636df8bb9a512b372527bda.jpg",
                 "author": "细菌侵染",
-                "play": 76,
+                "play": 77,
                 "favorites": 22,
                 "duration": "7:30",
                 "pubdate": 1693835811
@@ -36,7 +36,7 @@
                 "url": "http://www.bilibili.com/video/av960603645",
                 "pic": "https://i1.hdslb.com/bfs/archive/e692dcf8e083463ca3dc99e3edc546a62f924596.jpg",
                 "author": "何展翔",
-                "play": 157,
+                "play": 158,
                 "favorites": 2,
                 "duration": "0:49",
                 "pubdate": 1693821589
@@ -56,7 +56,7 @@
                 "url": "http://www.bilibili.com/video/av233072325",
                 "pic": "https://i2.hdslb.com/bfs/archive/1285c872b934ae0f27f9a5a5e3761d88cb5508fe.jpg",
                 "author": "Msc丶NYN",
-                "play": 35,
+                "play": 36,
                 "favorites": 0,
                 "duration": "59:46",
                 "pubdate": 1693749079
@@ -76,7 +76,7 @@
                 "url": "http://www.bilibili.com/video/av532936698",
                 "pic": "https://i1.hdslb.com/bfs/archive/af54180d694517d68e85cfb44dfe56c0bcaca6f4.jpg",
                 "author": "1em0n_2NyN",
-                "play": 243,
+                "play": 244,
                 "favorites": 0,
                 "duration": "0:43",
                 "pubdate": 1693570100
@@ -96,7 +96,7 @@
                 "url": "http://www.bilibili.com/video/av490446079",
                 "pic": "https://i1.hdslb.com/bfs/archive/14a9c9d04fa5c9637c188db37556d8d100f697bb.jpg",
                 "author": "桃苏Nyn1N",
-                "play": 377,
+                "play": 378,
                 "favorites": 1,
                 "duration": "3:6",
                 "pubdate": 1693457886
@@ -110,7 +110,7 @@
                 "url": "http://www.bilibili.com/video/av320519110",
                 "pic": "https://i1.hdslb.com/bfs/archive/a038424e2fc624903af90be62312dddd7929262c.jpg",
                 "author": "傲娇黑猪168",
-                "play": 672,
+                "play": 904,
                 "favorites": 3,
                 "duration": "1:42",
                 "pubdate": 1693841533
@@ -130,7 +130,7 @@
                 "url": "http://www.bilibili.com/video/av960558233",
                 "pic": "https://i1.hdslb.com/bfs/archive/01b51a09ab78062419a7d04f78add84fd334f238.jpg",
                 "author": "梦飞翔_",
-                "play": 44,
+                "play": 45,
                 "favorites": 1,
                 "duration": "1:32",
                 "pubdate": 1693826240
@@ -140,8 +140,8 @@
                 "url": "http://www.bilibili.com/video/av830588288",
                 "pic": "https://i2.hdslb.com/bfs/archive/beb265f5e91ff1455beb8041de0860de10365c7c.jpg",
                 "author": "_怨念_",
-                "play": 4223,
-                "favorites": 74,
+                "play": 4267,
+                "favorites": 75,
                 "duration": "2:25",
                 "pubdate": 1693821600
             },
@@ -160,7 +160,7 @@
                 "url": "http://www.bilibili.com/video/av448062810",
                 "pic": "https://i1.hdslb.com/bfs/archive/51025a438ba55b182e5c3715b14c4a497ba1c91f.jpg",
                 "author": "kross__",
-                "play": 18,
+                "play": 20,
                 "favorites": 0,
                 "duration": "4:6",
                 "pubdate": 1693815708
@@ -190,7 +190,7 @@
                 "url": "http://www.bilibili.com/video/av960528202",
                 "pic": "https://i1.hdslb.com/bfs/archive/332bfb5a740a7f6c714e3a2a3396e65769be8781.jpg",
                 "author": "SYNZI",
-                "play": 181,
+                "play": 182,
                 "favorites": 6,
                 "duration": "3:55",
                 "pubdate": 1693758660
@@ -200,8 +200,8 @@
                 "url": "http://www.bilibili.com/video/av533115643",
                 "pic": "https://i2.hdslb.com/bfs/archive/92782b4f03f1d74309237506b7c5534232f4c682.jpg",
                 "author": "beautifulremi",
-                "play": 5671,
-                "favorites": 223,
+                "play": 5733,
+                "favorites": 224,
                 "duration": "14:6",
                 "pubdate": 1693749780
             }
