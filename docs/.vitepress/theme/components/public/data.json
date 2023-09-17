@@ -6,8 +6,8 @@
                 "url": "http://www.bilibili.com/video/av831114105",
                 "pic": "https://i2.hdslb.com/bfs/archive/5147bae6b16622e10ff8a74b75a2cea6776eccbe.jpg",
                 "author": "Aurey9",
-                "play": 263,
-                "favorites": 27,
+                "play": 268,
+                "favorites": 28,
                 "duration": "1:53",
                 "pubdate": 1694867623
             },
@@ -36,7 +36,7 @@
                 "url": "http://www.bilibili.com/video/av661003154",
                 "pic": "https://i1.hdslb.com/bfs/archive/addb846ea950edf050a90df8cdb012bdae785cbb.jpg",
                 "author": "全等4号",
-                "play": 638,
+                "play": 639,
                 "favorites": 29,
                 "duration": "0:11",
                 "pubdate": 1694783448
@@ -66,7 +66,7 @@
                 "url": "http://www.bilibili.com/video/av660979050",
                 "pic": "https://i1.hdslb.com/bfs/archive/1629c397ee68813c9e957b38193036e51cf886db.jpg",
                 "author": "只是一只冰之妖精",
-                "play": 458,
+                "play": 461,
                 "favorites": 37,
                 "duration": "1:11",
                 "pubdate": 1694665219
@@ -76,7 +76,7 @@
                 "url": "http://www.bilibili.com/video/av915960656",
                 "pic": "https://i2.hdslb.com/bfs/archive/e4db9fc05407acc46205d67bf3cc467cd7729deb.jpg",
                 "author": "只是一只冰之妖精",
-                "play": 387,
+                "play": 392,
                 "favorites": 38,
                 "duration": "0:7",
                 "pubdate": 1694664743
@@ -96,8 +96,8 @@
                 "url": "http://www.bilibili.com/video/av830954024",
                 "pic": "https://i1.hdslb.com/bfs/archive/159b651716c483fda2489dff339fc95c5db82c65.jpg",
                 "author": "真夜中のnyn",
-                "play": 41712,
-                "favorites": 514,
+                "play": 41848,
+                "favorites": 516,
                 "duration": "0:41",
                 "pubdate": 1694623200
             }
@@ -106,11 +106,31 @@
     {
         "俊达萌": [
             {
+                "title": "ずんだちょうだい【software talk剧场】",
+                "url": "http://www.bilibili.com/video/av661047450",
+                "pic": "https://i1.hdslb.com/bfs/archive/7952ab531e8bc7648566e1b7b3fa8762520a83da.jpg",
+                "author": "東北ずん子",
+                "play": 7,
+                "favorites": 1,
+                "duration": "2:33",
+                "pubdate": 1694971038
+            },
+            {
+                "title": "【第二回10秒動画祭】ずんだぷりんす【ソフトウェアトーク劇場】",
+                "url": "http://www.bilibili.com/video/av788547491",
+                "pic": "https://i1.hdslb.com/bfs/archive/2faf7d8a2ed13f1d3631982d63a5e7dc220216d2.jpg",
+                "author": "東北ずん子",
+                "play": 23,
+                "favorites": 1,
+                "duration": "0:11",
+                "pubdate": 1694969679
+            },
+            {
                 "title": "俊达萌学到的“中国的无现金生活”太异次元了。/【先進国】ずんだもんと学ぶ「中国のキャッシュレス生活」が異次元すぎた...",
                 "url": "http://www.bilibili.com/video/av576101685",
                 "pic": "https://i1.hdslb.com/bfs/archive/8f24c53a405c77628f0c161634eb482440efff6f.jpg",
                 "author": "Montjeu",
-                "play": 17,
+                "play": 20,
                 "favorites": 0,
                 "duration": "10:1",
                 "pubdate": 1694951503
@@ -120,7 +140,7 @@
                 "url": "http://www.bilibili.com/video/av703513817",
                 "pic": "https://i2.hdslb.com/bfs/archive/94c3e255720bcd9ff4af204c6b7809bc4a789822.jpg",
                 "author": "Montjeu",
-                "play": 4,
+                "play": 7,
                 "favorites": 0,
                 "duration": "3:4",
                 "pubdate": 1694950988
@@ -130,8 +150,8 @@
                 "url": "http://www.bilibili.com/video/av873585587",
                 "pic": "https://i2.hdslb.com/bfs/archive/ff5c79bde24d769d721d81c6ca32fb5363abd9e0.jpg",
                 "author": "月夜喵",
-                "play": 11236,
-                "favorites": 218,
+                "play": 12189,
+                "favorites": 238,
                 "duration": "2:0",
                 "pubdate": 1694950192
             },
@@ -140,7 +160,7 @@
                 "url": "http://www.bilibili.com/video/av831092215",
                 "pic": "https://i1.hdslb.com/bfs/archive/ac1585b9757cae6e6db8d0e60ac80340dd5cc09a.jpg",
                 "author": "Montjeu",
-                "play": 25,
+                "play": 27,
                 "favorites": 2,
                 "duration": "1:9",
                 "pubdate": 1694949210
@@ -150,7 +170,7 @@
                 "url": "http://www.bilibili.com/video/av961123476",
                 "pic": "https://i1.hdslb.com/bfs/archive/306816f90b6f231386af7be1aacf166fa10d9c66.jpg",
                 "author": "Montjeu",
-                "play": 9,
+                "play": 10,
                 "favorites": 1,
                 "duration": "3:32",
                 "pubdate": 1694947986
@@ -160,7 +180,7 @@
                 "url": "http://www.bilibili.com/video/av321014455",
                 "pic": "https://i2.hdslb.com/bfs/archive/970fb6deea28d98cb20e61e0bdd6ccfc57afbcd5.jpg",
                 "author": "-Verovida-",
-                "play": 225,
+                "play": 254,
                 "favorites": 2,
                 "duration": "1:6",
                 "pubdate": 1694943954
@@ -170,8 +190,8 @@
                 "url": "http://www.bilibili.com/video/av831067420",
                 "pic": "https://i1.hdslb.com/bfs/archive/8e14e1e39b5bc076e761f2f0d323abf949429002.jpg",
                 "author": "Brunestud-",
-                "play": 1745,
-                "favorites": 65,
+                "play": 1759,
+                "favorites": 66,
                 "duration": "11:23",
                 "pubdate": 1694915733
             },
@@ -184,26 +204,6 @@
                 "favorites": 2,
                 "duration": "0:18",
                 "pubdate": 1694882523
-            },
-            {
-                "title": "⚠️全程神还原⚠️音游版洗脑神曲《社会贡献》",
-                "url": "http://www.bilibili.com/video/av831076516",
-                "pic": "https://i1.hdslb.com/bfs/archive/03d49ec9a659263a279b5248b0dd3f9133fca96c.jpg",
-                "author": "很腻害的音游狗",
-                "play": 7635,
-                "favorites": 187,
-                "duration": "3:33",
-                "pubdate": 1694874087
-            },
-            {
-                "title": "一分钟就能明白的俊达萌",
-                "url": "http://www.bilibili.com/video/av363604663",
-                "pic": "https://i1.hdslb.com/bfs/archive/714a376e40b36774fa2038bad7c09a7eb87c8d0e.jpg",
-                "author": "ゆのん",
-                "play": 1027,
-                "favorites": 28,
-                "duration": "1:27",
-                "pubdate": 1694871451
             }
         ]
     }
